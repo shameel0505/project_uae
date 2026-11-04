@@ -4,16 +4,15 @@
 
 ---
 
-## 🚨 Section 1: Urgent Action Radar (Immediate Deadlines)
+## 🚨 Section 1: Urgent Action Radar (Immediate Deadlines: Nov 5 – Nov 11)
 
 Apply to these immediately to avoid missing imminent submission cut-offs:
 
 | Opportunity | Deadline | Location / Format | Prize / Value | Core Requirement |
 | :--- | :--- | :--- | :--- | :--- |
-| **Careem Builders '26** | **4 Nov 2026 (TODAY)** | Dubai · Event: 14 Nov | AWS credits, Bedrock AgentCore, Kiro, Podium prizes | AI apps, autonomous agents, Careem MCP integrations. Solo or teams up to 3. |
-| **ITU AI for Good Lab Hackathon** | **5 Nov 2026** | Dubai · Event: 8 Dec | **CHF 4,700 total** (1st: CHF 1,500) | Shared knowledge infrastructure for Agentic AI, AI governance & regulation. Teams up to 4. |
+| **ITU AI for Good Lab Hackathon** | **5 Nov 2026 (Tomorrow)** | Dubai · Event: 8 Dec | **CHF 4,700 total** (1st: CHF 1,500) | Shared knowledge infrastructure for Agentic AI, AI governance & regulation. Teams up to 4. |
 | **Future Health Digital Innovation** | **10 Nov 2026** (Safe) | Abu Dhabi (via Hack2skill) | **$105,000 USD** ($50k / $35k / $20k) | Fertility AI, Population Health analytics, Wearables/Sensors. Solo or teams up to 5. |
-| **Voice of the Oasis (ElevenLabs)** | **10 Nov 2026** | Dubai · Event: 24–25 Nov | ElevenLabs credits, Doers Summit pass, stage demo | Multilingual voice agents (soft-landing guide, visitor concierge, tool calling). Solo or teams. |
+| **Voice of the Oasis (ElevenLabs)** | **10 Nov 2026** | Dubai · Event: 24–25 Nov | ElevenLabs credits, Doers Summit pass, stage demo | Multilingual voice agents (soft-landing guide, visitor concierge, tool calling). Solo or teams up to 5. |
 | **Nestlé NextGen Founders** | **11 Nov 2026** | UAE (Sheraa / MAJRA) | **AED 150,000** prize grant pool | FoodTech, AI, Sustainability, Packaging. Ages 18–30 UAE residents. |
 
 ---
@@ -75,6 +74,7 @@ Keep track of these programs to be first in line when future editions open:
 
 | Program | Field | Status as of 4 Nov 2026 | Notes & Next Window |
 | :--- | :--- | :--- | :--- |
+| **Careem Builders '26** | Agentic AI / Super-App MCP | **Registration Closed (4 Nov)** | Event Nov 14 at Dubai. Powered by AWS Bedrock & Careem MCP. |
 | **SatForge UAE 2026** | CubeSat / Aerospace | **Registration Closed (22 Oct)** | Final showcase on 10 Nov at Al Ain. University-only. |
 | **Emirates Robotics Competition** | Robotics / Autonomous Logistics | **Finalists Selected** | Finals taking place 21 Nov at Dubai Future Week. Spectator access. |
 | **ADNOC AI Hackathon (ADIPEC)** | Cybersecurity / Industrial AI | **Qualifier Closed (18 Oct)** | Top 24 compete in live Abu Dhabi final on 5 Nov. |
