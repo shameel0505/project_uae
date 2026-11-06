@@ -9,13 +9,15 @@
 * **Repository:** `https://github.com/shameel0505/project_uae`
 * **Primary Focus:** High-yield innovation competitions with **zero company requirement**, **cash/grant prizes**, and **deep AI/autonomous agent development**.
 * **Immediate Priority Track (Next 7 Days):**
-  1. **ITU AI for Good Lab Hackathon** — Closes **5 November 2026 (Tomorrow)**
-  2. **Future Health Digital Innovation** — Safe Deadline **10 November 2026**
+  1. **ITU AI for Good Lab Hackathon** — Closes **10 November 2026** *(Extended)*
+  2. **Future Health Digital Innovation** — Registration **10 November 2026** (MVP Due **20 November 2026**)
   3. **Voice of the Oasis (ElevenLabs)** — Closes **10 November 2026**
   4. **Nestlé NextGen Founders** — Closes **11 November 2026**
+  5. **Google Gemma 4 Developer Agent Competition** — Paper Track **12 November 2026** / Code Track **25 November 2026**
 * **Major Medium-Term Flagships:**
   * **Nabat TerraPod Challenge** ($50,000 USD) — Closes **19 November 2026**
-  * **Create AI Agents Championship** ($750,000 USD) — Closes **January 2027**
+  * **Create AI Agents Championship** ($750,000 USD) — Closes **December 2026** (Finals: May 2027)
+  * **Global Best M-Gov Award & WGS 2027 GovTech Prize** (AED 1,750,000) — Closes **Dec 2026 / Jan 2027**
 
 ---
 
@@ -23,10 +25,11 @@
 
 ---
 
-### 1. 🏛️ ITU AI for Good Lab Hackathon (UAE)
-* **Deadline:** **5 November 2026 (Tomorrow)**
+### 1. 🏛️ ITU AI for Good Lab Hackathon (UAE — TDRA)
+* **Deadline:** **10 November 2026** (Shortlist: 18 Nov 2026)
 * **Event:** 8 December 2026 at Dubai Exhibition Centre (Expo City Dubai)
-* **Prize:** CHF 4,700 total (1st: CHF 1,500; 2nd: CHF 1,000; 3rd: CHF 600) + UN stage presentation.
+* **Entry Fee:** **Free**
+* **Prize:** CHF 4,700 total (1st: CHF 1,500; 2nd: CHF 1,000; 3rd: CHF 600) + UN Geneva AI for Good 2027 invite.
 * **Team:** Solo or teams up to 4. No company required.
 * **Portal:** [ITU AI for Good Hackathon](https://aiforgood.itu.int/event/ai-for-good-sandbox-hackathon-united-arab-emirates/?topic=485)
 
@@ -115,19 +118,24 @@ Choose one of two high-scoring paths:
 
 ---
 
-### 5. 🌾 Nabat TerraPod Challenge (Hardware & Robotics)
-* **Deadline:** **19 November 2026**
+### 5. 🌾 Nabat TerraPod Challenge (Hardware & Materials Science)
+* **Deadline:** **19 November 2026** *(Phase 1 Written Proposal)*
 * **Prize:** **$50,000 USD** (AED 183,600) + real-world UAV field deployment.
 * **Eligibility:** Individuals 18+, researchers, startups. No company needed.
 * **Portal:** [ChallengeON Portal](https://challengeon.atrc.ae/en/challenges/ntpc)
-* **What to Build:** Biodegradable seed pods optimized for drone payload drops, soil moisture retention materials, and desert germination enhancement.
+* **Phase Structure ($0 Upfront Risk):**
+  * **Phase 1 (Due 19 Nov 2026):** Purely a **written technical proposal** ($0 cost).
+  * **Phase 2 (December 2026):** **Video pitch** to the expert jury ($0 cost).
+  * **Phase 3 (Materials Due 1 Jan 2027; Drone Trials Jan–Feb 2027):** Physical biodegradable seed pods are required **only if** your proposal passes both Phase 1 and Phase 2.
+* **What to Propose & Build:** Biodegradable seed pods optimized for drone payload drops, hydrogel/clay soil moisture retention chemistry, and desert germination enhancement.
 
 ---
 
 ### 6. 👑 Create AI Agents Championship (Flagship Anchor)
-* **Deadline:** **January 2027**
-* **Prize Pool:** **$750,000 USD total** ($150,000 per category winner + overall title grant).
-* **Eligibility:** Individuals & teams up to 6. Worldwide. No company needed.
+* **Deadline:** **December 2026** (Grand Final: May 2027)
+* **Entry Fee:** **Free**
+* **Prize Pool:** **$750,000 USD total** (4x AED 550,000 category winners + AED 1,000,000 overall title grant).
+* **Eligibility:** Individuals & teams up to 6. Worldwide. No company needed to enter (Dubai trade license required only post-win to claim grant funds).
 * **Portal:** [Create AI Agents Official Page](https://myhub.dubaichamber.com/en/web/dubai-chamber-of-digital-economy/create-ai-agents)
 * **What to Build:** An original, autonomous multi-step agent in Business Automation, Personal Productivity, Societal Good, or Youth (<21).
 

@@ -1,92 +1,55 @@
-# UAE & Global Innovation Opportunities Master Database (November 2026)
+# UAE, Regional & Global Innovation Opportunities Master Database (November 2026)
 
-*The complete, verified intelligence database for AI/ML engineers, autonomous agent developers, and deep-tech innovators.*
-
----
-
-## 🚨 Section 1: Urgent Action Radar (Immediate Deadlines: Nov 5 – Nov 11)
-
-Apply to these immediately to avoid missing imminent submission cut-offs:
-
-| Opportunity | Deadline | Location / Format | Prize / Value | Core Requirement |
-| :--- | :--- | :--- | :--- | :--- |
-| **ITU AI for Good Lab Hackathon** | **5 Nov 2026 (Tomorrow)** | Dubai · Event: 8 Dec | **CHF 4,700 total** (1st: CHF 1,500) | Shared knowledge infrastructure for Agentic AI, AI governance & regulation. Teams up to 4. |
-| **Future Health Digital Innovation** | **10 Nov 2026** (Safe) | Abu Dhabi (via Hack2skill) | **$105,000 USD** ($50k / $35k / $20k) | Fertility AI, Population Health analytics, Wearables/Sensors. Solo or teams up to 5. |
-| **Voice of the Oasis (ElevenLabs)** | **10 Nov 2026** | Dubai · Event: 24–25 Nov | ElevenLabs credits, Doers Summit pass, stage demo | Multilingual voice agents (soft-landing guide, visitor concierge, tool calling). Solo or teams up to 5. |
-| **Nestlé NextGen Founders** | **11 Nov 2026** | UAE (Sheraa / MAJRA) | **AED 150,000** prize grant pool | FoodTech, AI, Sustainability, Packaging. Ages 18–30 UAE residents. |
+*The verified, active-only intelligence database for AI/ML engineers, autonomous agent developers, and deep-tech innovators. All closed cycles have been removed.*
 
 ---
 
-## 🏆 Section 2: Confirmed Open UAE Opportunities
+## 🚨 Section 1: Urgent Action Radar (Immediate Deadlines: Nov 10 – Nov 15)
 
-| # | Opportunity | Deadline | Location | Prize / Grants | Tech Scope | Eligibility & Requirements | Status |
-|---|---|---|---|---|---|---|---|
-| **1** | **Create AI Agents Championship** | **January 2027** | Dubai / Global | **$750,000 USD total** ($150k per category winner + overall grant) | Autonomous AI agents: Societal, Personal, Business, Youth (<21) | Solo or teams up to 6.<br>**No company required.** | **Open (Flagship)** |
-| **2** | **Nabat TerraPod Challenge** | **19 Nov 2026** | Abu Dhabi (ChallengeON) | **$50,000 USD** (AED 183.6k) + UAV field validation | Biodegradable seed carriers, desert restoration, drone deployment | Individuals 18+, researchers, startups.<br>**No company required.** | **Open** |
-| **3** | **HealthX Ajyal Hackathon** | **14 Nov 2026** (Event: 22 Nov) | Masdar City (DoH Incubator) | **AED 30,000** milestone grants | Early risk detection, Fertility, Ageing, AI health assistants | Teams 2–4 (Must include 1 university student; matchmaking available). | **Open** |
-| **4** | **NASA Space Apps UAE** | **14–15 Nov 2026** (Event) | 5 Emirates (Abu Dhabi, Ajman, RAK, Fujairah, UAQ) | Global recognition & local incubation | 14 challenges: Earth observation AI, Wildfire tracking, Space data visualization | Open to all individuals, developers, students.<br>**No company required.** | **Open** |
-| **5** | **AI Odyssey** | **14–15 Nov 2026** | UOWD Campus, Dubai | Prizes & incubation perks (TBA) | 8 AI tracks: Smart Cities, Cybersecurity, Healthcare AI, Developer Tools | Developers, researchers, students (200–250 participants). | **Open** |
-| **6** | **Tatweer Hackathon (Ed. 2)** | **30 Nov 2026** (Event: 25–27 Dec) | Al Dhafra, Abu Dhabi | **AED 100,000** prize pool | Community digital infrastructure, digital public services software | UAE residents.<br>Individuals & teams up to 5. | **Open** |
-| **7** | **CBUAE Financial Health** | **30 Nov 2026** (23:30 GST) | UAE (Central Bank & AIR) | **AED 30,000** participation + **AED 90,000** pilot grant | AI financial advisors, predictive cash-flow tools, SME finance platforms | FinTechs & organisations capable of institutional UAE bank pilots. | **Open (Orgs)** |
-| **8** | **Proof of Pitch Abu Dhabi** | **20 Nov 2026** (Event: 3–4 Dec) | Louvre Abu Dhabi | International investor pitch & VC access | Live pitch for Pre-seed / Seed startups (<$3M raised) | Startups with a live MVP / product.<br>**Company required.** | **Open (Startups)** |
-| **9** | **HumAIne AI Hackathon** | **Before 27 Nov 2026** (Event: 27–29 Nov) | UAE (48h Hackathon) | Cash prizes & mentorship | Functional AI applications, civic tools, scientific AI | High school & university students.<br>Individuals matched to teams. | **Open (Students)** |
-| **10**| **Dubai AI Sandbox** | **18 Dec 2026** | DIFC / Dubai AI Campus | Regulatory guidance & real-world testing | AI agents, Financial AI, Healthcare AI, Enterprise automation | Startups, SMEs & enterprises with existing product beyond concept. | **Open (Sandbox)** |
+All entries below are **100% FREE to enter** and have imminent registration or submission cut-offs:
 
----
-
-## 🌐 Section 3: Global AI & Autonomous Agent Competitions (Direct Cash, 100% Individual)
-
-These competitions pay direct cash awards, are 100% online, require no registered company, and directly align with Agentic AI, reasoning, and machine learning:
-
-| # | Competition | Host | Prize Pool | Tech Scope & Focus | Format |
-|---|---|---|---|---|---|
-| **11** | **Google Gemma Developer Agent Competition** | Google DeepMind / Kaggle | **$110,000 USD** ($75k Code + $35k Paper) | Autonomous coding agents, agentic code synthesis, and multi-turn developer workflows using Gemma weights. | Online code & paper submission |
-| **12** | **ARC Prize 2026** | François Chollet & Lab42 | **$450,000 USD** | Frontier reasoning algorithms and novel problem-solving AI on visual reasoning tasks that LLMs fail on. | Online algorithm competition |
-| **13** | **Global Best M-Gov Award (WGS 2027)** | UAE PMO / EGSEP (Dubai) | **AED 1,750,000** (1st: AED 1M, 2nd: 500k, 3rd: 250k) | AI-driven mobile solutions transforming public services and eliminating bureaucratic bottlenecks. | Youth / University / Independent coders |
-| **14** | **Google Quantum AI - Circuit Optimization** | Google Quantum AI / Kaggle | **$150,000 USD** | Algorithmic compilation, heuristic search, and graph optimization to minimize quantum gate depth. | Online code submission |
-| **15** | **AMD x Lablab.ai AI Academy (Legend Track)** | AMD & Lablab.ai | Cash ($2,500 / $1,500 / $1,000) + AMD Cloud credits | Multi-agent autonomous systems, RAG pipelines, and model serving. Deadline: 1 Dec 2026. | Hybrid builder program |
+| Opportunity | Deadline | Location / Format | Entry Fee | Prize / Value | Core Requirement |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **ITU AI for Good Lab Hackathon** | **10 Nov 2026** *(Extended)* | Dubai · Finale: 8 Dec | **Free** | **CHF 4,700 total** (1st: CHF 1,500) + UN Geneva invite | Open knowledge bases & cross-domain AI agents (Healthcare, Gov, Education, Telecom). Teams up to 4. |
+| **Future Health Digital Innovation** | **10 Nov 2026** (Reg)<br>**20 Nov 2026** (MVP) | Abu Dhabi / Online (Hack2skill) · Finale: Dec 7–11 | **Free** | **$105,000 USD** ($50k / $35k / $20k) | Theme: *"To Sense is to Predict"* across Fertility, Population Health, Wellbeing. Solo or teams up to 5. |
+| **Voice of the Oasis (ElevenLabs)** | **10 Nov 2026** (Reg) | Dubai (Dtec, DSO) · Event: 24–25 Nov | **Free** | ElevenLabs credits, Doers Summit VIP pass, stage demo | Multilingual voice agents (business-setup guide, visitor concierge, live tool calling). Solo or teams up to 5. |
+| **Nestlé NextGen Founders** | **11 Nov 2026** | UAE (Sheraa / MAJRA) | **Free** (No equity) | **AED 150,000** grant pool + 10-week incubation | AI-integrated FoodTech, Sustainability, Packaging. Ages 18–30 UAE residents. |
+| **Google Gemma 4 Developer Agent (Paper Track)** | **12 Nov 2026** (Paper)<br>**25 Nov 2026** (Code) | Online (Kaggle) | **Free** | **$100,000 USD** ($75k Code + $25k/$35k Paper) | Autonomous offline coding agents & multi-turn SWE workflows using Gemma 4 weights. |
+| **HealthX Ajyal Hackathon** | **14 Nov 2026** (Event: 22 Nov) | Masdar City (Abu Dhabi DoH) | **Free** | **AED 30,000** milestone grants | Fertility & Women's Health, Healthy Aging, Alzheimer's. Teams 2–4 (requires 1 university student). |
+| **NASA Space Apps UAE** | **14–15 Nov 2026** (Event) | 5 Emirates (Abu Dhabi, Ajman, RAK, Fujairah, UAQ) | **Free** | Global recognition & local incubation | 14 challenges: Earth observation AI, Wildfire tracking, Space data visualization. |
 
 ---
 
-## 🛠️ Section 4: Development Platforms, Sandboxes & Infrastructure
+## 🏆 Section 2: Confirmed Open UAE & Regional Opportunities
 
-These programs provide development platforms, compute, and prototyping tools rather than direct prize money:
-
-* **UAE Vibe Codes**:
-  * *Organiser:* UAE AI Office & Microsoft (Launched 29 Oct 2026).
-  * *Scope:* Nationwide initiative to turn natural language specifications into working prototypes using generative AI.
-  * *Access:* Open to all individuals, no company required, no formal competition prize.
-* **Falcon Foundation Ecosystem Tracking**:
-  * *Organiser:* Technology Innovation Institute (TII), Abu Dhabi.
-  * *Commitment:* $300 Million commitment dedicated to open-source Falcon model infrastructure, compute, and academic research collaborations. Note: No public rolling individual grant portal; tracked for research partnerships and ambassador calls.
-* **DIFC Ignyte Platform (`ignyte.ae`)**:
-  * *Organiser:* DIFC Innovation Hub.
-  * *Status:* Previous hackathons (ElevenLabs Voice challenge, Polygon 25k USDC, TON) have closed application windows. Platform actively hosts rotating corporate challenge pipelines—monitor for incoming Q1 2027 briefs.
-* **CyberQ Summit & CTF**:
-  * *Organiser:* UAE Cyber Security Council & TII.
-  * *Focus:* Deep-tech convergence of AI security, post-quantum cryptography, and network defense simulations in Abu Dhabi.
+| # | Opportunity | Deadline | Location | Entry Fee | Prize / Grants | Tech Scope | Eligibility & Requirements |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1** | **Create AI Agents Championship** | **December 2026** *(Finals: May 2027)* | Dubai / Global | **Free** | **$750,000 USD total** (4x AED 550k category grants + AED 1M top prize) | Autonomous AI agents: Societal, Personal, Business, Youth (<21) | Solo or teams up to 6. **No company required to enter** (Dubai trade license needed only post-win to claim grant). |
+| **2** | **Nabat TerraPod Challenge** | **19 Nov 2026** *(Phase 1 Written Proposal)* | Abu Dhabi (ChallengeON) | **Free** ($0 Phase 1 & 2) | **$50,000 USD** (AED 183.6k) + UAV field validation | Biodegradable seed carriers, desert restoration, drone deployment | Individuals 18+, researchers, startups. **Phase 1 (Nov 19) & Phase 2 (Dec) are $0 written/video proposals; physical pods required only on 1 Jan 2027 if selected as a Phase 3 finalist.** |
+| **3** | **HumAIne AI Hackathon** | **Before 27 Nov 2026** (Event: 27–29 Nov) | UAE (48h Hackathon) | **Free** | Cash prizes & mentorship | Functional AI applications, civic tools, scientific AI | High school & university students (individuals matched to teams). |
+| **4** | **Tatweer Hackathon (Ed. 2)** | **30 Nov 2026** (Event: 25–27 Dec) | Al Dhafra, Abu Dhabi | **Free** | **AED 100,000** prize pool | Community digital infrastructure, local business & public service tools | UAE residents. Individuals & teams up to 5. |
+| **5** | **Naqlthon 5 (Transport Innovation)** | **3–5 Dec 2026** | Riyadh, Saudi Arabia (TGA) | **Free** | **SAR 300,000** (~$80,000 USD) | AI smart mobility, autonomous logistics, supply chain, smart cities | Developers, innovators, and teams. |
+| **6** | **Global Best M-Gov Award & WGS 2027 GovTech Prize** | **Dec 2026 / Jan 2027** (Summit: 1–3 Feb 2027) | Dubai (UAE PMO / WGS) | **Free** | **AED 1,750,000** (1st: AED 1M, 2nd: 500k, 3rd: 250k) + GovTech Award | AI-driven mobile & government solutions eliminating public service bottlenecks | University students, youth, independent coders & public-service innovators. |
 
 ---
 
-## 🗄️ Section 5: Monitoring Archive (Closed Cycles, Spectators & Upcoming Flagships)
+## 🌐 Section 3: Global AI, Autonomous Agent & ML Competitions (100% Online, Direct Cash, Individual Eligible)
 
-Keep track of these programs to be first in line when future editions open:
+All competitions below are **100% free to enter**, **100% online**, require **no registered company**, and pay direct cash prizes:
 
-| Program | Field | Status as of 4 Nov 2026 | Notes & Next Window |
-| :--- | :--- | :--- | :--- |
-| **Careem Builders '26** | Agentic AI / Super-App MCP | **Registration Closed (4 Nov)** | Event Nov 14 at Dubai. Powered by AWS Bedrock & Careem MCP. |
-| **SatForge UAE 2026** | CubeSat / Aerospace | **Registration Closed (22 Oct)** | Final showcase on 10 Nov at Al Ain. University-only. |
-| **Emirates Robotics Competition** | Robotics / Autonomous Logistics | **Finalists Selected** | Finals taking place 21 Nov at Dubai Future Week. Spectator access. |
-| **ADNOC AI Hackathon (ADIPEC)** | Cybersecurity / Industrial AI | **Qualifier Closed (18 Oct)** | Top 24 compete in live Abu Dhabi final on 5 Nov. |
-| **Dubai AI Grandmaster** | AI Orchestration / Prompting | **Competitor Selection Closed** | AED 1M prize event featured 18–21 Nov at Dubai Future Week. |
-| **Arab Youth Space Hackathon ("813")**| GeoAI / Satellite Analytics | **Closed (25 Sep)** | Selected teams currently in incubation with Space42. |
-| **Ruya AI Hackathon** | Autonomous / Self-Improving Agents | **Past Edition (14 Feb)** | Track AUD portal for next 2027 edition announcement. |
-| **Pitch@Gov – Renewable Energy** | GovTech / Green Transition | **Unconfirmed Open Call** | Previous edition concluded; monitor MBRCGI portal for new problem brief. |
-| **Advanced Technology Pioneers (ATP)**| Industrial AI / IoT | **Closed (11 Oct)** | Finalist demo days at NSTI Festival (10–13 Nov). |
-| **Al Miyah Challenge** | Water & Agritech | **In Testing Phase** | ASPIRE water-efficiency challenge currently in operational evaluation. |
-| **MBZIRC (Robotics Grand Challenge)** | Advanced Maritime / Drone Robotics | **Upcoming Cycle** | International robotics challenge; track ASPIRE announcements for next call. |
-| **A2RL (Abu Dhabi Autonomous League)** | Autonomous Racing & Drones | **Ongoing Season** | Drone racing and full-scale SF23 car autonomous competitions. |
-| **Make it in the Emirates Startup Pitch**| Industrial Innovation / AI | **Annual (May)** | Ministry of Industry (MoIAT) flagship pitch (AED 100k/70k/50k podium prizes). |
-| **Zayed Sustainability Prize** | CleanTech, Health, Water, Food | **Closed (June 2026)** | 2027 finalists announced; next submission cycle opens early 2027 ($5.9M pool). |
-| **Expand North Star Supernova** | Venture Startup Pitch | **Closed (1 Nov 2026)** | Event Dec 8–10 at Dubai Exhibition Centre ($200k+ pool). |
-| **Global Water Hackathon** | Water Tech / Desalination | **Closed** | Track Mohamed bin Zayed Water Initiative for future open calls. |
+| # | Competition | Host / Platform | Deadline | Entry Fee | Prize Pool | Tech Scope & Focus |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **7** | **Google Gemma 4 Developer Agent Competition** | Google DeepMind / Kaggle | **12 Nov 2026** (Paper)<br>**25 Nov 2026** (Code) | **Free** | **$100,000 USD** ($75k Code + $25k Paper) | Post-training open Gemma 4 weights into offline autonomous software engineering agents. |
+| **8** | **AMD x Lablab.ai AI Academy (Legend Track)** | AMD & Lablab.ai | **1 Dec 2026** | **Free** | **$5,000 USD** ($2.5k / $1.5k / $1k) + AMD GPU credits | Multi-agent autonomous systems, MCP, RAG pipelines, OCR, and model serving on AMD cloud. |
+| **9** | **Enveda CASMI 2026 (Molecule ID)** | Enveda / Kaggle | **7 Dec 2026** (Entry)<br>**14 Dec 2026** (Final) | **Free** | **$50,000 USD** | ML models predicting 2D chemical structures of small molecules from LC-MS/MS mass spectra. |
+| **10** | **Name That LLM** | Kaggle | **6 Jan 2027** (Entry)<br>**13 Jan 2027** (Final) | **Free** | **$50,000 USD** | Identifying which of 18 frontier LLMs generated unlabeled text passages via stylistic/statistical fingerprinting. |
+| **11** | **Google Quantum AI — Circuit Compilation** | Google Quantum AI / Kaggle | **13 Jan 2027** (Entry)<br>**20 Jan 2027** (Final) | **Free** | **$150,000 USD** | Using AI agents, heuristic search, and graph optimization (`kickmix`) to compress fault-tolerant quantum circuits. |
+| **12** | **NFL Big Data Bowl 2027** | NFL / Kaggle | **January 2027** | **Free** | **$100,000 USD** | Spatiotemporal sensor/telemetry analytics and predictive modeling on player tracking data. |
+
+---
+
+## 🛠️ Section 4: Active UAE Development Platforms & Sandboxes
+
+* **UAE Vibe Codes** (UAE AI Office & Microsoft): Open nationwide initiative turning natural language specs into working prototypes using generative AI (Free, open to all individuals).
+* **Falcon Foundation Ecosystem** (TII, Abu Dhabi): $300M open-source Falcon model infrastructure & research collaboration ecosystem.
+* **DIFC Ignyte Platform (`ignyte.ae`)**: DIFC Innovation Hub ecosystem hosting rotating corporate challenges and founder perks.
