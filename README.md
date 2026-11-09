@@ -6,7 +6,8 @@ A portable engineering workspace configured for rapid prototyping and competing 
 
 ## 📚 Core Intelligence & Action Files
 
-* 🎯 **[ACTIVE_CHALLENGES_BLUEPRINT.md](./ACTIVE_CHALLENGES_BLUEPRINT.md)**: Detailed technical specs, architectures, problem statements, and winning project ideas for our immediate priority challenges (ITU AI for Good, Future Health, Voice of the Oasis, Nestlé NextGen, Nabat TerraPod, and Create AI Agents).
+* 🌾 **[NABAT_TERRAPOD_EXECUTION_DOSSIER.md](./NABAT_TERRAPOD_EXECUTION_DOSSIER.md)**: **The Complete Brutal Execution Dossier for the Nabat TerraPod Challenge ($50,000 USD / AED 183.6k, due 19 Nov 2026)**. Contains real named UAE material suppliers, institutional contacts, peer-reviewed scientific citations, species germination ecophysiology, competitive teardowns, industrial pan agglomerator cost model (AED 0.342/pod), and word-for-word copy for the full 10-slide proposal deck.
+* 🎯 **[ACTIVE_CHALLENGES_BLUEPRINT.md](./ACTIVE_CHALLENGES_BLUEPRINT.md)**: Detailed technical specs, architectures, problem statements, and winning project ideas for active opportunities (Nabat TerraPod, Google Gemma 4 Code Track, Create AI Agents Championship).
 * 📊 **[uae_opportunities_database.md](./uae_opportunities_database.md)**: The comprehensive master intelligence database covering open competitions, grant funds, developer challenges, and monitoring archives.
 
 ---
@@ -39,7 +40,7 @@ git push
 ## 🤖 Resuming with AI on Another Computer
 
 When you open this folder on another machine in Antigravity or your AI assistant, simply say:
-> *"I am continuing my session from my other computer for `project_uae`. Check `ACTIVE_CHALLENGES_BLUEPRINT.md` and `uae_opportunities_database.md` to see our current state and priorities."*
+> *"I am continuing my session from my other computer for `project_uae`. Check `NABAT_TERRAPOD_EXECUTION_DOSSIER.md`, `ACTIVE_CHALLENGES_BLUEPRINT.md`, and `uae_opportunities_database.md` to see our current state and priorities."*
 
 ---
 
