@@ -8,3 +8,4 @@ This folder stores all raw, unprocessed engineering data collected on 9 November
 * `moisture_dew/`: Hourly mass logs for water uptake, swelling percentages, and disintegration.
 * `germination/`: Daily seed count logs across 4 replicates x 25 seeds.
 * `quotes/`: Attached written PDF/image quotations from verified suppliers.
+

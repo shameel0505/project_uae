@@ -33,3 +33,4 @@
 1. **ChallengeON Login & Q&A Post:** Please log in to `challengeon.atrc.ae/en/challenges/ntpc`, download any attached briefing pack/template, and post the 6 formulated questions in Section 4 of `BRIEF.md` by tomorrow morning (Tuesday 10 Nov).
 2. **Seed Procurement Decision:** Since collection from the wild is strictly prohibited (Rule 5), do you have an existing contact at EAD Al Dhafra Nursery / ICBA, or should we purchase commercially available surrogate desert grass/shrub seeds (or alfalfa/mustard for rapid surrogate germination benchmarking)?
 3. **Mould Procurement:** Confirm if you have access to a 3D printer in Abu Dhabi or will purchase silicone ovoid/sphere moulds (25–30 mm axis) tomorrow morning for Wednesday's batch compounding.
+
