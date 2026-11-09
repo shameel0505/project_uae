@@ -38,10 +38,10 @@
 * **Our Project Blueprint:** **Nabat-BioDrop™ Ovoid TerraPod**
   * Complete 10-slide word-for-word copy, aerodynamic CAD specs, UAE supplier map, and peer-reviewed citations are fully detailed in [`NABAT_TERRAPOD_EXECUTION_DOSSIER.md`](file:///c:/Users/m.shameel/Downloads/project_uae/NABAT_TERRAPOD_EXECUTION_DOSSIER.md).
   * **Key Innovations:**
-    1. *Prolate Ovoid Geometry ($C_d = 0.29$):* Reduces wind drift by 62% vs spheres and self-anchors into sand at 16.2 m/s impact.
-    2. *Translucent PAR Optical Window:* Transmits 82% photosynthetically active radiation, solving the photoblastic requirement of native seeds (*Cyperus*, *Eremobium*).
-    3. *15µm Carnauba Weathering Barrier:* Suppresses false germination from fleeting morning dew (<3mm).
-    4. *UAE Date Palm Waste Valorization:* 68% circular local biomass, slashing factory-gate cost to **AED 0.342 per pod** ($\le$ AED 0.40 ceiling).
+    1. *Prolate Ovoid Geometry ($C_d \approx 0.30$ `[Modelled]`):* Reduces crosswind drift by $32\text{–}45\%$ vs. spheres `[Modelled]` and self-anchors into sand upon $16.0\text{ m/s}$ impact ($E_k = 1.21\text{ J}$) `[Modelled]`.
+    2. *Translucent Optical Dome:* Transmits $>60\%$ ambient illuminance `[Target]` to fulfill the obligate photoblastic requirement of native pioneer seeds (*Cyperus*, *Eremobium*).
+    3. *15µm Carnauba Thermal Dew Barrier:* High-melting natural lipid ($82\text{–}86^\circ\text{C}$) suppresses false germination from fleeting morning dew ($<0.5\text{ mm}$), activating only upon sustained rainfall ($\ge 6\text{ mm}$) `[Target]`.
+    4. *UAE Date Palm Waste Valorization:* Circular local biochar and mineral matrix delivering a target factory-gate cost of **AED 0.361 per pod** `[Target]` ($\le$ AED 0.40 ceiling).
 
 ---
 

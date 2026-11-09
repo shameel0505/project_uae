@@ -85,8 +85,8 @@ For a drone hovering at $15\text{ m}$, the time of flight $t_f$ is:
 
 $$t_f \approx \frac{v_t}{g} \operatorname{acosh}\left(\exp\left(\frac{gh}{v_t^2}\right)\right)$$
 
-* For the sphere: $t_f \approx \mathbf{1.81\text{ seconds}}$.
-* For the ovoid: $t_f \approx \mathbf{1.77\text{ seconds}}$.
+* For the sphere: $t_f \approx \mathbf{1.82\text{ seconds}}$ `[Modelled]`.
+* For the ovoid: $t_f \approx \mathbf{1.79\text{ seconds}}$ `[Modelled]`.
 
 Assuming a uniform horizontal crosswind $w_x$:
 
@@ -215,3 +215,4 @@ To prepare a bench batch of 30 test pods (285 g total dry mass):
 ```
 
 All data generated will be directly entered into `data/raw/` CSV files and cited with exact standard deviations and sample sizes on the proposal slides.
+

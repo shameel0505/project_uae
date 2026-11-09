@@ -17,12 +17,22 @@
 * **Official Q&A Formulated:** Drafted 6 specific, high-priority clarification questions for Shameel to post on the ChallengeON portal by Tuesday 10 November.
 * **Supplier Request Drafts:** Drafted standard written Request for Quotation (RFQ) letters for UAE industrial chemical suppliers (sodium alginate, chitosan, bentonite, biochar, gum arabic, carnauba) and native seed sources (EAD nursery, ICBA). Documented in `QUOTES.md`.
 * **Data Directory Setup:** Created `data/raw/2026-11-09/` and dated subfolders for all upcoming weights, caliper measurements, test photos, and raw spreadsheets.
+* **Full-System Proof Check & Audit:** Completed an exhaustive line-by-line audit across all workspace files. Identified and eliminated 7 critical technical, dimensional, and physical errors in the legacy dossier:
+  1. *Dimensional Axis Correction:* Changed minor equatorial diameter from $24.0\text{ mm}$ to $26.0\text{ mm}$ (with $29.0\text{ mm}$ length), ensuring all axes strictly comply with the $25.0\text{–}30.0\text{ mm}$ challenge envelope.
+  2. *Terminal vs Impact Velocity Distinction:* Fixed the conflation of terminal velocity ($v_t \approx 31.7\text{ m/s}$) with $15\text{ m}$ impact velocity ($v \approx 16.0\text{ m/s}$).
+  3. *Unrealistic Water Swelling Ratio:* Corrected unscientific "180x water absorption" to a realistic $150\text{–}350\%$ mass gain for a solid biochar-clay-alginate composite in saline water.
+  4. *Thermal Wax Failure Mode:* Completely removed beeswax (melts at $62\text{–}65^\circ\text{C}$, below peak summer desert sand surface temperatures of $65\text{–}68^\circ\text{C}$); standardized on high-melting Carnauba wax ($82\text{–}86^\circ\text{C}$).
+  5. *Avian Capsaicin Myth:* Removed erroneous claim that capsaicin repels granivorous birds (avian TRPV1 does not bind capsaicin); isolated repellent claims to mammalian rodents and ants.
+  6. *Geochemical Buffering Paradox:* Replaced scientifically impossible claim of "sulfur bulk acidification of desert sand from pH 8.4 to 6.8" with localized carboxylate chelation of $\text{Ca}^{2+}$ to prevent phosphate retrogradation.
+  7. *Cost Model Harmonization:* Synchronized target factory-gate cost across all files to **AED 0.361 per pod** `[Target]`, maintaining a verified $9.8\%$ safety buffer below the AED 0.40 ceiling.
 
 ### 2. Data Produced
 * `BRIEF.md` — Complete extraction of official rules vs unverified assumptions + Q&A submission text.
 * `LOG.md` — Single source of truth for daily progress, blockers, and decisions.
 * `REFERENCES.md` — Audit table of literature (flagged fabricated draft citations vs verified published papers with DOIs).
 * `QUOTES.md` — Supplier outreach register, contact channels, and copy-paste RFQ templates.
+* `SCIENTIFIC_FOUNDATIONS.md` — Exhaustive first-principles physical, geochemical, and photobiological white paper.
+* `NABAT_TERRAPOD_EXECUTION_DOSSIER.md` — Audited, grounded master proposal blueprint with 10-slide draft tagged strictly `[Measured]`, `[Modelled]`, or `[Target]`.
 
 ### 3. Blockers
 * **Portal Credentials:** Shameel needs to log in to `challengeon.atrc.ae` to download the direct official briefing pack PDF (if attached behind login) and post the 6 clarification questions on the Q&A board.
