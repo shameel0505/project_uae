@@ -284,3 +284,4 @@ By utilizing abundant local date palm agricultural waste and low-cost natural mi
 Our roadmap guarantees seamless progression to Phase 3. With local material supply chains mapped across Abu Dhabi, Dubai, and Sharjah, pilot tooling will produce 2,000 field-ready units by 1 January 2027 for live Nabat drone validation. The project directly advances UAE Net Zero 2050 and the National Biodiversity Strategy 2031.
 
 *Footer: Contact: Mohamed Shameel (shameel0505@gmail.com) | ChallengeON Track: NTPC 2026*
+
