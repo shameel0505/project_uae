@@ -223,10 +223,13 @@ All prospective suppliers are tracked in [`QUOTES.md`](file:///c:/Users/m.shamee
   * Scaled on continuous industrial $2.2\text{ m}$ disc granulators ($18\text{ RPM}$, $45^\circ$ tilt) with concave punch tooling.
   * Continuous multi-tier spray addition ensures uniform ovoid growth with tight dimensional variance ($29 \pm 1.2\text{ mm}$) `[Target]`.
   * Low-temperature fluidized bed drying ($38^\circ\text{C}$) preserves seed embryo viability and mycorrhizal spores.
-  * Line Capacity: **50,000 pods per day per line** `[Modelled]`.
-* **Nabat UAV Payload Integration:**
+  * Line Capacity: **50,000 pods per day per line** ($1.2\text{ tonnes/day}$) `[Modelled]`.
+* **Nabat UAV Payload Integration & Operational Density:**
   * Dimensions ($29.0 \times 26.5\text{ mm}$) fit standard rotary drum and pneumatic aerial seeding dispensers.
-  * At $9.8\text{ g}$ unit mass, a $25\text{ kg}$ payload UAV carries **2,550 pods per flight sortie** `[Modelled]`.
+  * At $9.8\text{ g}$ unit mass, a $25\text{ kg}$ payload UAV carries **2,550 pods per flight sortie** `[Modelled]` (+155% vs heavy 25g pucks).
+  * *Scenario A (Rangeland Shrub - Mix B):* 1,500 pods/ha $\implies$ **AED 340.50 / hectare** (targets 300–500 shrubs/ha at 25% establishment).
+  * *Scenario B (Dune Stabilization - Mix A):* 4,500 pods/ha $\implies$ **AED 1,021.50 / hectare** (matches EAD 6.5M seed / 320 ha trial).
+  * Sortie Coverage: 1.7 ha (Scenario A) or 0.6 ha (Scenario B) per 25kg UAV flight.
 
 ### SLIDE 9: TECHNO-ECONOMIC COST MODEL
 * **Headline:** Validated Manufacturing Cost: AED 0.227 per Seed-Carrier `[Modelled]`
@@ -245,7 +248,8 @@ All prospective suppliers are tracked in [`QUOTES.md`](file:///c:/Users/m.shamee
   * *December 2026 (Phase 2):* Semi-finalist video pitch and comprehensive mechanical/germination test data submission.
   * *January 2027 (Phase 3 Preparation):* Batch production of 2,000 deployment units using pilot granulation equipment; ready for deployment by 1 January 2027.
   * *Jan–Feb 2027 (Live Drone Trials):* UAV dispersion and field establishment validation across designated Abu Dhabi restoration study plots in partnership with Nabat.
-* **Team & IP Disclosure:** Independent engineering team led by Mohamed Shameel; 100% proprietary design; non-exclusive evaluation rights granted to ASPIRE/Nabat.
+* **Team & IP Disclosure:** Led by Mohamed Shameel (Independent Applied Engineering & Computational Modeling; grassroots self-directed research with zero corporate overhead); 100% proprietary design; non-exclusive evaluation rights granted to ASPIRE/Nabat; 100% clean IP with zero prior grant encumbrances.
+* **Strategic Alignment:** Direct alignment with UAE Net Zero 2050 (biological carbon sink) and UAE National Biodiversity Strategy 2031 (native arid ecosystem restoration).
 
 ---
 

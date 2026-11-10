@@ -547,30 +547,30 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         bp.font.size = Pt(11)
         bp.font.color.rgb = COLOR_TEXT_MUTED
 
-    create_card(s8, Inches(6.7), Inches(1.6), Inches(5.8), Inches(5.1), "Nabat UAV Payload Integration")
+    create_card(s8, Inches(6.7), Inches(1.6), Inches(5.8), Inches(5.1), "UAE Seeding Density & Hectare Impact")
     s8_t2 = s8.shapes.add_textbox(Inches(6.9), Inches(2.2), Inches(5.4), Inches(4.3))
     tf8_2 = s8_t2.text_frame
     tf8_2.word_wrap = True
 
     p = tf8_2.paragraphs[0]
-    p.text = "Payload Capacity on 25 kg Commercial Drone:"
-    p.font.size = Pt(12)
+    p.text = "Operational Density Models (Grounded in EAD Abu Dhabi Data):"
+    p.font.size = Pt(11)
     p.font.bold = True
     p.font.color.rgb = COLOR_NAVY
 
     uav_points = [
-        "Universal Dispenser Fit: Symmetric 26.5mm diameter guarantees jam-free flow in rotary drum and pneumatic spreaders.",
-        "2,550 Pods per Flight Sortie: At 9.8g unit mass, a 25kg payload UAV carries 2,550 pods (+155% vs. heavy 25g pucks).",
-        "High Operational Speed: Cruise dispensing at 5 m/s covers 12-15 hectares per hour.",
-        "Low Launch Energy: Smooth outer wax finish ensures zero barrel friction during high-speed broadcast."
+        "Scenario A (Rangeland Shrub Restoration - Mix B): 1,500 pods/hectare (targeting 300-500 mature shrubs/ha at 25% field establishment). Cost = AED 340.50/ha.",
+        "Scenario B (Pioneer Dune Stabilization - Mix A): 4,500 pods/hectare (matches EAD's 6.5M seed / 320 ha Qasr Al Sarab trial for moving sand). Cost = AED 1,021.50/ha.",
+        "UAV Sortie Coverage: A single 25kg drone flight carrying 2,550 pods restores 1.7 ha (Scenario A) or 0.6 ha (Scenario B) per sortie.",
+        "5-Year Scaled Impact: 1,000,000 pods/year line restores 660 hectares of rangeland or 220 hectares of critical dunes annually."
     ]
     for b in uav_points:
         bp = tf8_2.add_paragraph()
         bp.text = f"\n• {b}"
-        bp.font.size = Pt(11)
+        bp.font.size = Pt(10.5)
         bp.font.color.rgb = COLOR_TEXT_MUTED
 
-    add_footer(s8, "Throughput based on continuous disc granulator specs. UAV metrics based on standard 25kg drone payload capacity.")
+    add_footer(s8, "Grounded in EAD 6.5M native seed dispersal trials across Abu Dhabi nature reserves. Tagged: [Modelled]")
 
     # =========================================================================
     # SLIDE 9: TECHNO-ECONOMIC VIABILITY: AED 0.227 PER CARRIER
@@ -685,11 +685,11 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     p.font.color.rgb = COLOR_NAVY
 
     align_points = [
-        "Lead Engineer: Mohamed Shameel (Systems Engineering & Applied Computational Modeling).",
-        "IP Declaration: 100% proprietary independent architecture; non-exclusive testing license to ASPIRE/Nabat.",
-        "Prior Funding Disclosure: Zero prior grant funding or competing contractual claims.",
+        "Lead Innovator: Mohamed Shameel (Independent Applied Engineering & Computational Modeling; grassroots self-directed research with zero corporate overhead).",
+        "IP Declaration: 100% proprietary independent architecture; non-exclusive testing license granted to ASPIRE/Nabat.",
+        "Prior Funding Disclosure: Zero prior grant funding or competing contractual claims (100% clean IP).",
         "UAE Net Zero 2050: Biological carbon capture via accelerated desert vegetation establishment.",
-        "National Biodiversity Strategy 2031: Native habitat rehabilitation using desert flora."
+        "National Biodiversity Strategy 2031: Native habitat rehabilitation using local arid flora."
     ]
     for b in align_points:
         bp = tf10_2.add_paragraph()
@@ -705,3 +705,4 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
 
 if __name__ == "__main__":
     create_deck()
+

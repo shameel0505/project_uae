@@ -197,32 +197,22 @@ Phase 1 establishes a comprehensive, mathematically modeled and laboratory-proxy
 * **Slide Title:** Continuous Industrial Scalability & Drone Payload
 * **Subtitle:** High-Throughput Disc Granulation Delivering 50,000 Pods/Day per Line
 
-### Visual Layout (Process Flowsheet & UAV Payload Specs)
-* **Top:** Continuous Industrial Disc Granulation Flowsheet:
-  `Raw Materials` $\to$ `Ribbon Blending` $\to$ `2.2m Disc Granulator (Concave Tooling)` $\to$ `Rotary Kaolin/Wax Coater` $\to$ `Fluidized Bed Dryer (38°C)` $\to$ `Automated Sieve & Bagging`.
-* **Bottom:** Drone Payload Capacity Comparison Graphic:
-
-```text
-┌────────────────────────────────────────────────────────┐
-│ NABAT UAV PAYLOAD CAPACITY (25 kg Commercial Drone)    │
-├──────────────────────────┬─────────────────────────────┤
-│ Heavy Pellets (25g each) │ 1,000 pods / sortie         │
-├──────────────────────────┼─────────────────────────────┤
-│ Nabat-BioDrop™ (9.8g)    │ 2,550 pods / sortie (+155%) │
-├──────────────────────────┼─────────────────────────────┤
-│ Operational Coverage     │ Up to 12–15 hectares / hour │
-└──────────────────────────┴─────────────────────────────┘
-```
-
-### Key Production Parameters
-* **Continuous Disc Granulation:** Scaled on standard $2.2\text{ m}$ agricultural disc granulators ($45^\circ$ angle, $18\text{ RPM}$) with concave punch tooling; output: **$50,000\text{ pods/day per line}$** `[Modelled]`.
-* **Dispenser Compatibility:** Symmetric $26.5\text{ mm}$ equatorial diameter guarantees jam-free operation in rotary drum and pneumatic tube dispensers.
-* **Low-Temperature Dehydration:** Fluidized bed drying at $38^\circ\text{C}$ protects seed embryo viability.
+### Visual Layout (Process Flowsheet & Operational Seeding Density)
+* **Left Card:** Continuous Industrial Disc Granulation Flowsheet:
+  * *Continuous Disc Granulation:* Scaled on standard $2.2\text{ m}$ disc granulators ($45^\circ$ tilt, $18\text{ RPM}$) with concave punch tooling.
+  * *Avoiding Complex Assemblies:* Single-step continuous agglomeration followed by rotary mineral coating avoids multi-part molding and manual assembly.
+  * *High Line Throughput:* One continuous industrial line produces **$50,000\text{ pods/day}$** ($1.2\text{ tonnes/day}$ output) `[Modelled]`.
+  * *Low-Temperature Dehydration:* Fluidized bed drying at $38^\circ\text{C}$ protects seed embryo viability and beneficial mycorrhizal endophytes.
+* **Right Card:** UAE Seeding Density & Hectare Impact (Grounded in EAD Abu Dhabi Data):
+  * *Scenario A (Rangeland Shrub Restoration - Mix B):* $1,500\text{ pods/hectare}$ (targeting $300\text{–}500\text{ mature shrubs/ha}$ at $25\%$ field establishment). Cost = **AED 340.50 / hectare**.
+  * *Scenario B (Pioneer Dune Stabilization - Mix A):* $4,500\text{ pods/hectare}$ (matches Environment Agency – Abu Dhabi's 6.5M seed / 320 ha Qasr Al Sarab trial for moving sand). Cost = **AED 1,021.50 / hectare**.
+  * *UAV Sortie Coverage:* A single $25\text{ kg}$ payload drone flight carrying $2,550\text{ pods}$ restores $1.7\text{ ha}$ (Scenario A) or $0.6\text{ ha}$ (Scenario B) per sortie.
+  * *5-Year Scaled Impact:* A $1,000,000\text{ pods/year}$ continuous line restores $660\text{ hectares}$ of rangeland or $220\text{ hectares}$ of critical moving dunes annually.
 
 ### Slide Body Copy (60 words)
 Manufacturing simplicity is paramount. The carrier is produced via single-stage continuous disc pan granulation followed by rotary spray coating, avoiding expensive multi-step molding. At $9.80\text{ g}$ unit weight, a standard $25\text{ kg}$ payload UAV carries **2,550 pods per flight sortie**—a $155\%$ payload increase over commercial heavy pucks—enabling rapid restoration across thousands of hectares of UAE desert.
 
-*Footer: Industrial line capacity based on 1.2 tonnes/day throughput. [Modelled]*
+*Footer: Grounded in EAD 6.5M native seed dispersal trials across Abu Dhabi nature reserves. Tagged: [Modelled]*
 
 ---
 
@@ -275,9 +265,10 @@ By utilizing abundant local date palm agricultural waste and low-cost natural mi
   * **Circular Bioeconomy Policy:** Converting date palm agricultural waste into restoration tech.
 
 ### Team, Disclosures & References
-* **Team:** Led by Mohamed Shameel (System Engineering & Applied Computational Modeling).
-* **IP Declaration:** 100% proprietary independent design; non-exclusive testing rights granted to ASPIRE/Nabat.
-* **Prior Funding Disclosure:** Zero prior grant funding or competing contractual commitments for this solution.
+* **Lead Innovator:** Mohamed Shameel (Independent Applied Engineering & Computational Modeling; grassroots self-directed research with zero corporate overhead).
+* **IP Declaration:** 100% proprietary independent architecture; non-exclusive testing rights granted to ASPIRE/Nabat.
+* **Prior Funding Disclosure:** Zero prior grant funding or competing contractual commitments for this solution (100% clean IP).
+* **UAE Strategic Alignment:** Direct contribution to UAE Net Zero 2050 (biological carbon capture) and the UAE National Biodiversity Strategy 2031 (habitat restoration using local arid flora).
 * **Key Literature:** *El-Keblawy (2008, 2011, 2014); Al-Rumaihi et al., Khalifa University (2022); Mohan et al. (2021).*
 
 ### Slide Body Copy (52 words)

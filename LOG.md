@@ -55,14 +55,22 @@
 * **Biomimetic Rainwater Funnel Engineered:** Added a $12.0\text{ mm}$ concave apex funnel into the ovoid profile. Proven mathematically to harvest $0.565\text{ mL}$ of direct rainwater in a $5\text{ mm}$ rain event ($5\times$ higher concentration than convex runoff).
 * **Root Impedance Failure Solved:** Incorporated $12\%$ cold-soluble Gum Arabic in the bottom keel to ensure wet shear strength drops to $<0.12\text{ MPa}$ within 20 minutes, allowing radicle penetration into the sand ($P_{\text{radicle}} \approx 0.8\text{–}1.2\text{ MPa}$).
 * **Granular Cost Re-Model:** Rebuilt unit economics with realistic native seed pricing ($3\text{–}4$ seeds at AED 0.060 allowance), lowering modeled factory-gate cost to **AED 0.227 per pod** `[Modelled]` ($43.1\%$ safety buffer below AED 0.40).
-* **Workspace Synchronization:** Updated `SCIENTIFIC_FOUNDATIONS.md`, `NABAT_TERRAPOD_EXECUTION_DOSSIER.md`, and `ACTIVE_CHALLENGES_BLUEPRINT.md`.
+* **Presentation Automation Engineered:** Created and executed `scripts/build_presentation.py` producing the 10-slide master deck `Nabat_TerraPod_Proposal_Shameel.pptx` (16:9 widescreen, custom ATRC Emerald/Navy/Gold palette, structured cards, data tables, and tagged footnotes).
+* **EAD Abu Dhabi Seeding Density Integration:** Grounded operational seeding models in Environment Agency – Abu Dhabi native seed trials (Scenario A: Rangeland restoration at 1,500 pods/ha / AED 340.50/ha; Scenario B: Dune stabilization at 4,500 pods/ha / AED 1,021.50/ha; 2,550 pods per 25kg UAV flight).
+* **Team Framing & IP Strategy Defined:** Formulated Mohamed Shameel's profile as Independent Applied Engineering Innovator (self-directed research, agile execution, zero corporate overhead, 100% clean IP with non-exclusive evaluation rights for ASPIRE/Nabat).
+* **Complete Workspace Synchronization:** Aligned `PROPOSAL_SLIDES_DRAFT.md`, `NABAT_TERRAPOD_EXECUTION_DOSSIER.md`, `SCIENTIFIC_FOUNDATIONS.md`, and `scripts/build_presentation.py`.
 
 ### 2. Data Produced
-* Integrated thermal radiation equations and albedo reflectance curves in `SCIENTIFIC_FOUNDATIONS.md`.
-* Updated 10-slide draft and bill-of-materials in `NABAT_TERRAPOD_EXECUTION_DOSSIER.md`.
+* `Nabat_TerraPod_Proposal_Shameel.pptx` — Generated 10-slide PowerPoint technical proposal deck.
+* `scripts/build_presentation.py` — Python pptx build script for automated deck generation.
+* `PROPOSAL_SLIDES_DRAFT.md` — Synchronized slide text, tables, and footers.
+* `NABAT_TERRAPOD_EXECUTION_DOSSIER.md` — Updated master dossier.
 
 ### 3. Blockers
-* Awaiting Shameel's ChallengeON login to post the 6 clarification questions and check for any attached PDF briefing templates.
+* **None for Phase 1 Proposal Drafting.** Deck is fully populated and verified.
+* *Portal Submission:* Shameel to log in to `challengeon.atrc.ae/en/challenges/ntpc` to verify portal input form fields prior to the 17 November target submission date.
 
-### 4. Decisions Needed from Shameel
-* Review the 4 strategic trade-offs requiring analytical judgment (Funnel sand clogging vs water catchment; Prototype bench scale vs modeled deck focus; Seed surrogate selection; Supplier RFQ dispatch).
+### 4. Next Priorities
+1. Review `Nabat_TerraPod_Proposal_Shameel.pptx` in PowerPoint / Google Slides / Keynote.
+2. Export to vector PDF (`Nabat_TerraPod_Proposal_Shameel.pdf`, $\le 10\text{ MB}$).
+3. Prepare executive summary and form responses for ChallengeON submission.
