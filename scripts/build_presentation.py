@@ -8,6 +8,7 @@ Aesthetic Guidelines:
 - ZERO emojis. Clean alphanumeric tags and indices only (e.g. 01, 02, 03).
 - Strict vertical space budgeting: NO overlapping text, NO collision between shapes.
 - High visual hierarchy: Bold headers, comfortable line spacing, generous margins.
+- Dual-tier cost range: AED 0.23 – AED 0.31 (Factory-Gate to Landed Delivery).
 """
 
 from pptx import Presentation
@@ -141,10 +142,10 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
 
     # Right Hero Stat Grid (4 Independent Fixed Cards)
     stat_data = [
-        ("−33°C", "SOLAR PROTECTION", "White kaolin shield reflects desert sun, keeping the seed nest at 41°C.", COLOR_GOLD),
-        ("5x", "RAINWATER HARVESTING", "Concave funnel directs 100% of intercepted rain straight to the embryo.", COLOR_EMERALD),
-        ("2,550", "PODS / DRONE FLIGHT", "Ultralight 9.8g profile doubles 25kg drone flight coverage vs. heavy pucks.", COLOR_NAVY),
-        ("AED 0.23", "UNIT FACTORY COST", "43% below ASPIRE's AED 0.40 ceiling, providing a robust safety margin.", COLOR_EMERALD)
+        ("−33°C", "SOLAR PROTECTION", "White kaolin shield reflects desert sun, keeping the seed nest at 41°C.", COLOR_GOLD, 32),
+        ("5x", "RAINWATER HARVESTING", "Concave funnel directs 100% of intercepted rain straight to the embryo.", COLOR_EMERALD, 32),
+        ("2,550", "PODS / DRONE FLIGHT", "Ultralight 9.8g profile doubles 25kg drone flight coverage vs. heavy pucks.", COLOR_NAVY, 32),
+        ("AED 0.23 – 0.31", "UNIT COST RANGE", "AED 0.23 factory-gate to AED 0.31 landed commercial delivery (23–43% under cap).", COLOR_EMERALD, 23)
     ]
     coords = [
         (Inches(6.7), Inches(1.55)),
@@ -152,7 +153,7 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         (Inches(6.7), Inches(4.25)),
         (Inches(9.7), Inches(4.25))
     ]
-    for i, (b_num, b_lbl, b_txt, b_col) in enumerate(stat_data):
+    for i, (b_num, b_lbl, b_txt, b_col, f_sz) in enumerate(stat_data):
         cx, cy = coords[i]
         create_card(s1, cx, cy, Inches(2.8), Inches(2.5))
         tb = s1.shapes.add_textbox(cx + Inches(0.2), cy + Inches(0.2), Inches(2.4), Inches(2.1))
@@ -161,7 +162,7 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         
         p1 = tf.paragraphs[0]
         p1.text = b_num
-        p1.font.size = Pt(32)
+        p1.font.size = Pt(f_sz)
         p1.font.bold = True
         p1.font.color.rgb = b_col
 
@@ -255,7 +256,6 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
             bp.font.color.rgb = COLOR_NAVY_LIGHT
             bp.space_before = Pt(6)
 
-        # Bottom result box inside card
         create_card(s2, cx + Inches(0.25), Inches(5.95), col_w - Inches(0.5), Inches(0.6), bg_color=COLOR_CARD_ALT)
         tb_r = s2.shapes.add_textbox(cx + Inches(0.3), Inches(6.05), col_w - Inches(0.6), Inches(0.4))
         tf_r = tb_r.text_frame
@@ -312,7 +312,6 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         bp.font.color.rgb = COLOR_NAVY_LIGHT
         bp.space_before = Pt(6)
 
-    # Left Bottom Limitation Box
     create_card(s3, Inches(1.1), Inches(5.85), Inches(5.0), Inches(0.7), bg_color=COLOR_CARD_ALT)
     tb_l = s3.shapes.add_textbox(Inches(1.2), Inches(5.95), Inches(4.8), Inches(0.5))
     tf_l = tb_l.text_frame
@@ -359,7 +358,6 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         bp.font.color.rgb = COLOR_NAVY_LIGHT
         bp.space_before = Pt(6)
 
-    # Right Bottom Spec Badges (3 horizontal chips)
     badge_data = [
         ("29.0 × 26.5 mm", "ENVELOPE"),
         ("−27% DRIFT", "STABILITY"),
@@ -473,7 +471,7 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     pc2_3.font.color.rgb = COLOR_MUTED
     pc2_3.space_before = Pt(4)
 
-    # Right Bottom: Formulation Breakdown Card
+    # Right Bottom: Formulation Breakdown Card (Sums to exactly 100%)
     create_card(s4, Inches(6.7), Inches(4.15), Inches(5.8), Inches(2.6))
     tb_mat = s4.shapes.add_textbox(Inches(7.0), Inches(4.35), Inches(5.2), Inches(2.2))
     tf_mat = tb_mat.text_frame
@@ -486,24 +484,25 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     p.font.color.rgb = COLOR_NAVY
 
     p_m_sub = tf_mat.add_paragraph()
-    p_m_sub.text = "100% Natural UAE Formulation (Zero Microplastics)"
+    p_m_sub.text = "100% Natural UAE Formulation (Total: 9.80 g = 100%)"
     p_m_sub.font.size = Pt(13)
     p_m_sub.font.bold = True
     p_m_sub.font.color.rgb = COLOR_NAVY
     p_m_sub.space_before = Pt(2)
 
     mats = [
-        "Date Palm Waste Biochar (32%): High carbon water retention and porous matrix.",
-        "Calcium Bentonite Clay (28%): Moisture binding and structural cohesion.",
-        "Kaolin Mineral Shield (20%): Outer high-albedo solar defense layer.",
-        "Cold-Soluble Gum Arabic (12%): Rapid-release root escape binder."
+        "Date Palm Waste Biochar (32% w/w): Porous water retention scaffold.",
+        "Calcium Bentonite Clay (28% w/w): Structural cohesive mineral core.",
+        "Kaolin Mineral Shield (20% w/w): Outer high-albedo solar defense coat.",
+        "Cold-Soluble Gum Arabic (12% w/w): Rapid-dissolving root release binder.",
+        "Sodium Alginate (6%) & Carnauba Wax (2%): Internal hydrogel & dew seal."
     ]
     for m in mats:
         bp = tf_mat.add_paragraph()
         bp.text = f"•  {m}"
-        bp.font.size = Pt(9)
+        bp.font.size = Pt(8.5)
         bp.font.color.rgb = COLOR_NAVY_LIGHT
-        bp.space_before = Pt(3)
+        bp.space_before = Pt(2)
 
     add_footer(s4)
 
@@ -552,7 +551,6 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         bp.font.color.rgb = COLOR_NAVY_LIGHT
         bp.space_before = Pt(5)
 
-    # Left Bottom Box
     create_card(s5, Inches(1.1), Inches(5.85), Inches(5.0), Inches(0.7), bg_color=COLOR_CARD_ALT)
     tb_fb = s5.shapes.add_textbox(Inches(1.2), Inches(5.95), Inches(4.8), Inches(0.5))
     tf_fb = tb_fb.text_frame
@@ -601,7 +599,6 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         bp.font.color.rgb = COLOR_NAVY_LIGHT
         bp.space_before = Pt(5)
 
-    # Right Bottom Box
     create_card(s5, Inches(7.0), Inches(5.85), Inches(5.2), Inches(0.7), bg_color=COLOR_CARD_ALT)
     tb_wb = s5.shapes.add_textbox(Inches(7.1), Inches(5.95), Inches(5.0), Inches(0.5))
     tf_wb = tb_wb.text_frame
@@ -659,7 +656,6 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         bp.font.color.rgb = COLOR_NAVY_LIGHT
         bp.space_before = Pt(5)
 
-    # Left Integrated Metric Box
     create_card(s6, Inches(1.1), Inches(5.75), Inches(5.0), Inches(0.8), bg_color=COLOR_CARD_ALT)
     tb_kb = s6.shapes.add_textbox(Inches(1.2), Inches(5.82), Inches(4.8), Inches(0.65))
     tf_kb = tb_kb.text_frame
@@ -712,7 +708,6 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         bp.font.color.rgb = COLOR_NAVY_LIGHT
         bp.space_before = Pt(5)
 
-    # Right Integrated Metric Box
     create_card(s6, Inches(7.0), Inches(5.75), Inches(5.2), Inches(0.8), bg_color=COLOR_CARD_ALT)
     tb_ngb = s6.shapes.add_textbox(Inches(7.1), Inches(5.82), Inches(5.0), Inches(0.65))
     tf_ngb = tb_ngb.text_frame
@@ -901,8 +896,8 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
 
     d_pts = [
         "2,550 Pods per Flight: Ultralight 9.8g mass enables 2,550 pods on a standard 25 kg UAV (+155% vs. heavy 25g pellets).",
-        "Rangeland Restoration: 1,500 pods/ha achieves 300–500 mature shrubs/ha at a low carrier cost of AED 340.50 / hectare.",
-        "Dune Stabilization: 4,500 pods/ha locks moving sand at AED 1,021.50 / hectare (matching EAD 6.5M seed trial).",
+        "Rangeland Restoration: 1,500 pods/ha achieves 300–500 shrubs/ha at AED 345 – AED 465 / hectare (factory vs. landed).",
+        "Dune Stabilization: 4,500 pods/ha locks moving sand at AED 1,035 – AED 1,395 / hectare (matching EAD 6.5M seed trial).",
         "Sortie Coverage: A single drone flight restores up to 1.7 hectares of rangeland or 0.6 hectares of critical sand dunes."
     ]
     for pt in d_pts:
@@ -929,61 +924,61 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     add_footer(s8)
 
     # =========================================================================
-    # SLIDE 9: TECHNO-ECONOMIC VIABILITY: AED 0.23 PER CARRIER
+    # SLIDE 9: TECHNO-ECONOMIC VIABILITY: AED 0.23 – AED 0.31 RANGE
     # =========================================================================
     s9 = prs.slides.add_slide(blank_layout)
     set_canvas(s9)
-    add_header(s9, "Techno-Economic Viability: AED 0.23 per Carrier", "43% SAFETY MARGIN BELOW THE ASPIRE AED 0.40 CEILING")
+    add_header(s9, "Techno-Economic Viability: AED 0.23 – AED 0.31 per Carrier", "FACTORY-GATE CONVERSION COST TO FULLY LANDED COMMERCIAL DELIVERY")
 
-    # Left Column: Cost Breakdown
+    # Left Column: Dual-Tier Cost Breakdown
     create_card(s9, Inches(0.8), Inches(1.55), Inches(5.6), Inches(5.2))
     tb_c = s9.shapes.add_textbox(Inches(1.1), Inches(1.8), Inches(5.0), Inches(4.7))
     tf_c = tb_c.text_frame
     tf_c.word_wrap = True
 
     p = tf_c.paragraphs[0]
-    p.text = "UNIT ECONOMICS"
+    p.text = "UNIT ECONOMICS & COST STRUCTURE"
     p.font.size = Pt(9.5)
     p.font.bold = True
     p.font.color.rgb = COLOR_EMERALD
 
     p_sub = tf_c.add_paragraph()
-    p_sub.text = "Factory-Gate Unit Cost Breakdown"
-    p_sub.font.size = Pt(14)
+    p_sub.text = "Factory-Gate vs. Landed Commercial Delivery"
+    p_sub.font.size = Pt(13.5)
     p_sub.font.bold = True
     p_sub.font.color.rgb = COLOR_NAVY
     p_sub.space_before = Pt(2)
 
     p_desc = tf_c.add_paragraph()
-    p_desc.text = "Upcycling local date palm agricultural waste and domestic bentonite clay minimizes bill-of-materials cost while maintaining industrial consistency:"
+    p_desc.text = "Modelled at 1,000,000 unit production scale using domestic UAE agricultural minerals:"
     p_desc.font.size = Pt(9.5)
     p_desc.font.color.rgb = COLOR_MUTED
     p_desc.space_before = Pt(3)
 
     c_bars = [
-        ("Raw Materials", "AED 0.10", "Date palm biochar, bentonite, kaolin, gum, and native seeds"),
-        ("Labor & Conversion", "AED 0.05", "Automated continuous disc granulation and fluidized bed drying"),
-        ("Capex & Packaging", "AED 0.08", "Plant depreciation over 5M units and bulk biodegradable packaging")
+        ("Factory-Gate Production", "AED 0.227 (~AED 0.23)", "Raw materials (10 fils) + Labor (5 fils) + Capex/Packaging (8 fils)."),
+        ("Landed Commercial Delivery", "AED 0.307 (~AED 0.31)", "Includes transport to Abu Dhabi desert sites, 35% commercial margin & contingency."),
+        ("ASPIRE Ceiling Compliance", "AED 0.400 Cap", "Both factory-gate (-43%) and landed price (-23%) remain strictly under budget.")
     ]
     for b_title, b_val, b_desc in c_bars:
         bp1 = tf_c.add_paragraph()
         bp1.text = f"•  {b_title}: {b_val}"
-        bp1.font.size = Pt(10.5)
+        bp1.font.size = Pt(10)
         bp1.font.bold = True
         bp1.font.color.rgb = COLOR_NAVY
-        bp1.space_before = Pt(6)
+        bp1.space_before = Pt(5)
 
         bp2 = tf_c.add_paragraph()
         bp2.text = f"   {b_desc}"
-        bp2.font.size = Pt(9)
+        bp2.font.size = Pt(8.5)
         bp2.font.color.rgb = COLOR_MUTED
 
     p_sum = tf_c.add_paragraph()
-    p_sum.text = "Total factory-gate cost is AED 0.227 per pod, providing a 43.1% safety margin (17 fils buffer) below ASPIRE's AED 0.40 ceiling."
-    p_sum.font.size = Pt(9.5)
+    p_sum.text = "Clear Pricing Boundary: Zero hidden conversion costs. Leaves an explicit 9 to 17 fils safety buffer below ASPIRE's AED 0.40 cap across all deployment modes."
+    p_sum.font.size = Pt(9)
     p_sum.font.bold = True
     p_sum.font.color.rgb = COLOR_EMERALD
-    p_sum.space_before = Pt(8)
+    p_sum.space_before = Pt(6)
 
     # Right Top: Two Contrast Cards
     create_card(s9, Inches(6.7), Inches(1.55), Inches(2.8), Inches(2.3))
@@ -991,19 +986,19 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     tf_cs1 = tb_cs1.text_frame
     tf_cs1.word_wrap = True
     pcs1_1 = tf_cs1.paragraphs[0]
-    pcs1_1.text = "AED 0.23"
-    pcs1_1.font.size = Pt(30)
+    pcs1_1.text = "AED 0.23 – 0.31"
+    pcs1_1.font.size = Pt(23)
     pcs1_1.font.bold = True
     pcs1_1.font.color.rgb = COLOR_EMERALD
     pcs1_2 = tf_cs1.add_paragraph()
-    pcs1_2.text = "NABAT-BIODROP COST"
+    pcs1_2.text = "NABAT-BIODROP RANGE"
     pcs1_2.font.size = Pt(9.5)
     pcs1_2.font.bold = True
     pcs1_2.font.color.rgb = COLOR_NAVY
     pcs1_2.space_before = Pt(2)
     pcs1_3 = tf_cs1.add_paragraph()
-    pcs1_3.text = "Itemized factory-gate cost at 1M unit scale."
-    pcs1_3.font.size = Pt(9)
+    pcs1_3.text = "AED 0.23 factory-gate to AED 0.31 landed commercial delivery."
+    pcs1_3.font.size = Pt(8.5)
     pcs1_3.font.color.rgb = COLOR_MUTED
     pcs1_3.space_before = Pt(4)
 
@@ -1023,8 +1018,8 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     pcs2_2.font.color.rgb = COLOR_NAVY
     pcs2_2.space_before = Pt(2)
     pcs2_3 = tf_cs2.add_paragraph()
-    pcs2_3.text = "Challenge economic ceiling threshold."
-    pcs2_3.font.size = Pt(9)
+    pcs2_3.text = "Maximum allowed economic threshold in challenge brief."
+    pcs2_3.font.size = Pt(8.5)
     pcs2_3.font.color.rgb = COLOR_MUTED
     pcs2_3.space_before = Pt(4)
 
@@ -1048,9 +1043,9 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     p_r_sub.space_before = Pt(2)
 
     shocks = [
-        "+50% Labor Spike: Unit cost rises to AED 0.25 (Still −36% below ceiling).",
-        "+100% Seed Price Shock: Unit cost rises to AED 0.29 (Still −28% below ceiling).",
-        "Extreme Combined Shock: Model survives up to +150% native seed price surges while remaining fully under budget."
+        "+50% Labor Spike: Factory-gate cost rises to AED 0.25 (Still −36% below ceiling).",
+        "+100% Seed Price Shock: Factory-gate cost rises to AED 0.29 (Still −28% below ceiling).",
+        "Extreme Combined Shock: Model survives up to +150% native seed price surges while remaining fully compliant."
     ]
     for sh in shocks:
         bp = tf_res.add_paragraph()
@@ -1172,7 +1167,7 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
 
     # Save presentation
     prs.save(output_path)
-    print(f"[SUCCESS] Deep-tech presentation generated successfully: {output_path}")
+    print(f"[SUCCESS] Deep-tech presentation with dual-tier cost range generated successfully: {output_path}")
 
 if __name__ == "__main__":
     create_deck()

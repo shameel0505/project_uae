@@ -18,7 +18,7 @@
   * **−33°C** — SOLAR PROTECTION: White kaolin shield reflects desert sun, keeping the seed nest at 41°C.
   * **5x** — RAINWATER HARVESTING: Concave funnel directs 100% of intercepted rain straight to the embryo.
   * **2,550** — PODS / DRONE FLIGHT: Ultralight 9.8g profile doubles 25kg drone flight coverage vs. heavy pucks.
-  * **AED 0.23** — UNIT FACTORY COST: 43% below ASPIRE's AED 0.40 ceiling, providing a robust safety margin.
+  * **AED 0.23 – 0.31** — UNIT COST RANGE: AED 0.23 factory-gate to AED 0.31 landed commercial delivery (23–43% under cap).
 * **Footer:** Lead Innovator: Mohamed Shameel (shameel0505@gmail.com) | ChallengeON Track: NTPC 2026
 
 ---
@@ -56,7 +56,7 @@
   * **74.7°C** — UNCOATED BIOCHAR: Absorbs 92% of solar heat; causes irreversible embryo denaturation.
   * **41.4°C** — KAOLIN SOLAR SHIELD: Reflects 78% of heat; maintains internal embryo viability.
 * **Right Bottom Card (Circular Bio-Composite):**
-  * 100% Natural UAE Formulation: Date palm waste biochar (32%), Calcium bentonite clay (28%), Kaolin mineral shield (20%), Cold-soluble Gum Arabic (12%). Zero synthetic polymers or microplastics.
+  * 100% Natural UAE Formulation (Total: 9.80 g = 100%): Date palm waste biochar (32% w/w), Calcium bentonite clay (28% w/w), Kaolin mineral shield (20% w/w), Cold-soluble Gum Arabic (12% w/w), Sodium Alginate (6% w/w), Carnauba Wax (2% w/w). Zero synthetic polymers or microplastics.
 
 ---
 
@@ -117,27 +117,25 @@
 * **Right Column (Drone Integration):**
   * Drone Payload & Field Coverage: Operational metrics grounded in EAD Abu Dhabi restoration trials.
   * 2,550 Pods per Flight: Ultralight 9.8g mass enables 2,550 pods on a standard 25 kg UAV (+155% vs. heavy 25g pellets).
-  * Rangeland Restoration: 1,500 pods/ha achieves 300–500 mature shrubs/ha at a low carrier cost of AED 340.50 / hectare.
-  * Dune Stabilization: 4,500 pods/ha locks moving sand at AED 1,021.50 / hectare (matching EAD 6.5M seed trial).
+  * Rangeland Restoration: 1,500 pods/ha achieves 300–500 mature shrubs/ha at AED 345 – AED 465 / hectare (factory vs. landed).
+  * Dune Stabilization: 4,500 pods/ha locks moving sand at AED 1,035 – AED 1,395 / hectare (matching EAD 6.5M seed trial).
   * *Integrated Metric Box:* 2,550 Pods / Flight | 1.7 Hectares coverage per 25kg drone sortie.
 
 ---
 
-## SLIDE 9: TECHNO-ECONOMIC VIABILITY: AED 0.23 PER CARRIER
-* **Header:** Techno-Economic Viability: AED 0.23 per Carrier  
-* **Subtitle:** 43% Safety Margin Below the ASPIRE AED 0.40 Ceiling  
-* **Left Column (Unit Economics):**
-  * Factory-Gate Unit Cost Breakdown modeled at 1,000,000 unit production scale.
-  * Upcycling local date palm agricultural waste and domestic bentonite clay minimizes bill-of-materials cost while maintaining industrial consistency.
-  * Raw Materials: AED 0.10 (Date palm biochar, bentonite, kaolin, gum, and native seeds).
-  * Labor & Conversion: AED 0.05 (Automated continuous disc granulation and fluidized bed drying).
-  * Capex & Packaging: AED 0.08 (Plant depreciation over 5M units and bulk biodegradable packaging).
-  * *Summary:* Total factory-gate cost is AED 0.227 per pod, providing a 43.1% safety margin (17 fils buffer) below ASPIRE's AED 0.40 ceiling.
+## SLIDE 9: TECHNO-ECONOMIC VIABILITY: AED 0.23 – AED 0.31 RANGE
+* **Header:** Techno-Economic Viability: AED 0.23 – AED 0.31 per Carrier  
+* **Subtitle:** Factory-Gate Conversion Cost to Fully Landed Commercial Delivery  
+* **Left Column (Unit Economics & Cost Structure):**
+  * Modelled at 1,000,000 unit production scale using domestic UAE agricultural minerals:
+  * Factory-Gate Production: **AED 0.227 (~AED 0.23)** [Raw materials (10 fils) + Labor (5 fils) + Capex/Packaging (8 fils)].
+  * Landed Commercial Delivery: **AED 0.307 (~AED 0.31)** [Includes transport to Abu Dhabi desert sites, 35% commercial margin & contingency].
+  * ASPIRE Ceiling Compliance: Both factory-gate (-43%) and landed price (-23%) remain strictly under the AED 0.40 ceiling.
 * **Right Top Contrast Cards:**
-  * **AED 0.23** — NABAT-BIODROP COST: Itemized factory-gate cost at 1M unit scale.
-  * **AED 0.40** — ASPIRE CEILING CAP: Challenge economic ceiling threshold.
+  * **AED 0.23 – 0.31** — NABAT-BIODROP RANGE: AED 0.23 factory-gate to AED 0.31 landed commercial delivery.
+  * **AED 0.40** — ASPIRE CEILING CAP: Maximum allowed economic threshold in challenge brief.
 * **Right Bottom Card (Stress Resilience):**
-  * Financial Sensitivity & Shock Resistance: +50% labor spike increases cost to AED 0.25 (−36% below ceiling). +100% seed price shock increases cost to AED 0.29 (−28% below ceiling). Model survives up to +150% native seed price surges while remaining fully compliant.
+  * Financial Sensitivity & Shock Resistance: +50% labor spike increases factory-gate cost to AED 0.25 (−36% below ceiling). +100% seed price shock increases cost to AED 0.29 (−28% below ceiling). Model survives up to +150% native seed price surges while remaining fully compliant.
 
 ---
 
