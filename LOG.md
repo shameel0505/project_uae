@@ -58,10 +58,11 @@
 * **Presentation Automation Engineered:** Created and executed `scripts/build_presentation.py` producing the 10-slide master deck `Nabat_TerraPod_Proposal_Shameel.pptx` (16:9 widescreen, custom ATRC Emerald/Navy/Gold palette, structured cards, data tables, and tagged footnotes).
 * **EAD Abu Dhabi Seeding Density Integration:** Grounded operational seeding models in Environment Agency – Abu Dhabi native seed trials (Scenario A: Rangeland restoration at 1,500 pods/ha / AED 340.50/ha; Scenario B: Dune stabilization at 4,500 pods/ha / AED 1,021.50/ha; 2,550 pods per 25kg UAV flight).
 * **Team Framing & IP Strategy Defined:** Formulated Mohamed Shameel's profile as Independent Applied Engineering Innovator (self-directed research, agile execution, zero corporate overhead, 100% clean IP with non-exclusive evaluation rights for ASPIRE/Nabat).
+* **Complete Presentation Overhaul (Human-Centric & Executive Polish):** Redesigned all 10 slides in `scripts/build_presentation.py` and `PROPOSAL_SLIDES_DRAFT.md`. Eliminated micro-number clutter, raw formulas, and dense text tables. Introduced bold hero stat cards (`34pt` bold numbers), generous whitespace, clean 3-pillar narrative structures, and clear problem/solution contrast cards.
 * **Complete Workspace Synchronization:** Aligned `PROPOSAL_SLIDES_DRAFT.md`, `NABAT_TERRAPOD_EXECUTION_DOSSIER.md`, `SCIENTIFIC_FOUNDATIONS.md`, and `scripts/build_presentation.py`.
 
 ### 2. Data Produced
-* `Nabat_TerraPod_Proposal_Shameel.pptx` — Generated 10-slide PowerPoint technical proposal deck.
+* `Nabat_TerraPod_Proposal_Shameel.pptx` — Regenerated 10-slide PowerPoint technical proposal deck.
 * `scripts/build_presentation.py` — Python pptx build script for automated deck generation.
 * `PROPOSAL_SLIDES_DRAFT.md` — Synchronized slide text, tables, and footers.
 * `NABAT_TERRAPOD_EXECUTION_DOSSIER.md` — Updated master dossier.
