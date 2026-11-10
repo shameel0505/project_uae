@@ -39,7 +39,7 @@
   * Complete 10-slide word-for-word copy, aerodynamic CAD specs, UAE supplier map, and peer-reviewed citations are fully detailed in [`NABAT_TERRAPOD_EXECUTION_DOSSIER.md`](file:///c:/Users/m.shameel/Downloads/project_uae/NABAT_TERRAPOD_EXECUTION_DOSSIER.md).
   * **Key Innovations:**
     1. *Prolate Ovoid Geometry with Concave Funnel ($29.0 \times 26.5\text{ mm}$, $C_d \approx 0.33$ `[Modelled]`):* Reduces crosswind drift by $27.4\%$ vs. spheres, anchors $9\text{–}13.5\text{ mm}$ into dune sand upon $15.85\text{ m/s}$ impact ($E_k = 1.23\text{ J}$), and collects $5\times$ more rainwater via a $12\text{ mm}$ top catchment funnel.
-    2. *High-Albedo Kaolin Thermal Shield:* $78\%$ solar reflectance drops surface equilibrium temperature by $33.3^\circ\text{C}$ (down to $41.4^\circ\text{C}$), preventing heat-induced embryo denaturation `[Modelled]`.
+    2. *High-Albedo Kaolin Thermal Shield:* $78\%$ solar reflectance drops surface equilibrium temperature by $34.3^\circ\text{C}$ (down to $40.6^\circ\text{C}$), preventing heat-induced embryo denaturation `[Modelled]`.
     3. *Water-Soluble Root Escape:* Contact with moisture dissolves $12\%$ cold-soluble Gum Arabic, dropping wet shear strength to $<0.12\text{ MPa}$, allowing the radicle to push effortlessly into damp sand.
     4. *Techno-Economic Viability:* Scaled continuous disc granulation costed at **AED 0.227 per pod** `[Modelled]` (a $43.1\%$ safety buffer below the challenge AED 0.40 ceiling).
 

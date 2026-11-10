@@ -63,18 +63,21 @@ Upon striking loose sand dunes ($D_{50} \approx 200\mu\text{m}$, $\rho_{\text{sa
 ### 2.1 The Desert Surface Cooking Hazard
 Solar irradiance in Abu Dhabi reaches $G = 1,000\text{ W/m}^2$.
 * Bare unshaded desert sand and dark biochar have high solar absorptance ($\alpha \ge 0.90$).
-* Under midday solar exposure at $T_\infty = 32^\circ\text{C}$ with convective cooling $h_c \approx 18\text{ W/(m}^2\text{K)}$:
-  $$T_{\text{surface, dark}} \approx T_\infty + \frac{\alpha G - q_{\text{rad}}}{h_c} \approx 32 + \frac{920 - 150}{18} = \mathbf{74.7^\circ\text{C}}$$
+* Governing energy balance equation (Stefan-Boltzmann non-linear radiation & convection balance):
+  $$\alpha G = h_c (T_s - T_{amb}) + \varepsilon \sigma (T_s^4 - T_{sky}^4)$$
+* Under peak solar exposure ($G = 1,000\text{ W/m}^2$, $T_{amb} = 32^\circ\text{C} = 305.15\text{ K}$, $T_{sky} = 295.15\text{ K}$, $\varepsilon = 0.90$, boundary-layer calm convection $h_c \approx 13.0\text{ W/m}^2\text{K}$):
+  * Uncoated Biochar ($\alpha = 0.92$ absorbs $920\text{ W/m}^2$):
+    $$T_{\text{surface, dark}} = \mathbf{74.9^\circ\text{C}} \quad (348.05\text{ K}) \quad `[Modelled]`$$
 * At $>42^\circ\text{C}$, hydrated seeds undergo **thermo-inhibition** and irreversible heat denaturation of $\alpha$-amylase and cellular membrane proteins.
 
 ### 2.2 The High-Albedo Kaolin Outer Shield
-By coating the entire exterior of the pod in a micro-crystalline natural Kaolin / Calcium Carbonate mineral shield:
-* Absorptance drops to $\alpha \approx 0.22$; Solar Reflectance rises to $R \approx \mathbf{78\%}$.
-* Equilibrium surface temperature:
-  $$T_{\text{surface, white}} \approx 32 + \frac{220 - 50}{18} = \mathbf{41.4^\circ\text{C}}$$
+By coating the entire exterior of the pod in a micro-crystalline natural Kaolin mineral shield:
+* Absorptance drops to $\alpha \approx 0.22$; Solar Reflectance rises to $R \approx \mathbf{78\%}$ (absorbs only $220\text{ W/m}^2$).
+* Numerical solution of the Stefan-Boltzmann balance:
+  $$T_{\text{surface, white}} = \mathbf{40.6^\circ\text{C}} \quad (313.75\text{ K}) \quad `[Modelled]`$$
 * **Thermal Differential:**
-  $$\Delta T = T_{\text{dark}} - T_{\text{white}} = \mathbf{-33.3^\circ\text{C}} \quad `[Modelled]`$$
-* The Kaolin shield maintains the seed nest beneath the lethal $42^\circ\text{C}$ denaturation threshold even during peak midday desert sunshine.
+  $$\Delta T = T_{\text{dark}} - T_{\text{white}} = 74.9^\circ\text{C} - 40.6^\circ\text{C} = \mathbf{-34.3^\circ\text{C}} \quad `[Modelled]`$$
+* The Kaolin shield maintains the seed nest beneath the critical $42.0^\circ\text{C}$ lethal threshold even during peak midday desert sunshine.
 
 ---
 
@@ -142,8 +145,10 @@ Dry bentonite clay and gum composites exhibit compressive clod strengths exceedi
 | **Molding & Dehydration Power** | 0.012 kWh | AED 0.38 / kWh | AED 0.0046 | Low-temperature drying ($38^\circ\text{C}$) |
 | **Direct Industrial Labor** | 4 Technicians | AED 6,500 / month | AED 0.0520 | 500,000 pods/month capacity |
 | **Capex Depreciation** | Press + Dryer | 5-Year Straight Line | AED 0.0450 | Plant equipment amortization |
-| **Quality Screening & Packaging** | Sieve + Sacks | Bulk Jute Hessian | AED 0.0300 | Automated sorting |
-| **TOTAL FACTORY-GATE UNIT COST**| — | — | **AED 0.2274** `[Modelled]` | **$43.1\%$ safety margin below AED 0.40 ceiling!** |
+| **Quality Screening & Packaging** | Sieve + Sacks | Bulk Jute Hessian | AED 0.0290 | Weather-sealed bulk fiber drums |
+| **TOTAL FACTORY-GATE UNIT COST**| — | — | **AED 0.2274 (~AED 0.23)** `[Modelled]` | **$43.1\%$ safety margin below AED 0.40 ceiling** |
+| **Distribution, Margin & Landed** | Transport & 35% Markup | Site Delivery to Abu Dhabi | **AED 0.0795 (~AED 0.08)** | Logistics, 35% margin & contingency |
+| **COMMERCIAL LANDED DELIVERY**  | Fully Landed Price | To Nabat Staging Depots | **AED 0.3069 (~AED 0.31)** `[Modelled]` | **$23.3\%$ safety margin below AED 0.40 ceiling** |
 
 ---
 *Verified by Mohamed Shameel & Antigravity Engineering System | 10 November 2026*

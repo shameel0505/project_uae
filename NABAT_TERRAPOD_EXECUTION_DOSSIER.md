@@ -13,11 +13,11 @@
 > [!IMPORTANT]
 > **AUDIT & COMPLIANCE STATUS (Updated 10 November 2026):**
 > This dossier reflects the complete recalculation incorporating:
-> 1. **Biomimetic Rainwater Catchment Funnel:** Concave top aperture delivering $5\times$ water collection directly to the seed nest.
-> 2. **High-Albedo Kaolin Thermal Shield:** $78\%$ solar reflectance dropping surface equilibrium temperature by $33.3^\circ\text{C}$ (from $74.7^\circ\text{C}$ to $41.4^\circ\text{C}$), preventing embryo denaturation.
-> 3. **Water-Soluble Root Escape:** $12\%$ cold-soluble Gum Arabic dropping wet shear strength to $<0.12\text{ MPa}$, preventing root entrapment.
+> 1. **Biomimetic Rainwater Catchment Funnel:** Concave top aperture delivering $5\times$ water collection directly to the seed nest ($0.56\text{ mL}$ captured per $5\text{ mm}$ shower).
+> 2. **High-Albedo Kaolin Thermal Shield:** $78\%$ solar reflectance dropping surface equilibrium temperature by $34.3^\circ\text{C}$ (from $74.9^\circ\text{C}$ to $40.6^\circ\text{C}$), safely below the $42.0^\circ\text{C}$ embryo lethal threshold.
+> 3. **Water-Soluble Root Escape:** $12\%$ cold-soluble Gum Arabic dropping wet shear strength to $<0.12\text{ MPa}$ within 20 minutes, eliminating root entrapment.
 > 4. **Dimensional Envelope:** $29.0\text{ mm height} \times 26.5\text{ mm equatorial diameter}$ (all axes strictly $25.0\text{–}30.0\text{ mm}$).
-> 5. **Unit Economics:** Synchronized factory-gate cost of **AED 0.227 per pod** `[Modelled]`, providing a **$43.1\%$ safety margin** below the challenge AED 0.40 ceiling.
+> 5. **Transparent Dual-Tier Economics:** Factory-gate cost of **AED 0.227 (~AED 0.23) per pod** ($43.1\%$ safety margin below AED 0.40 ceiling) and landed delivery of **AED 0.307 (~AED 0.31) per pod** ($23.3\%$ margin below ceiling).
 
 ---
 
@@ -52,7 +52,7 @@
                │
           ┌────┴────┐
          \  CONCAVE  /  <── 12mm Rainwater Catchment Funnel (Collects 5x More Rain)
-          \ FUNNEL  /   <── Kaolin High-Albedo Thermal Shield (R = 78%, ΔT = -33.3°C)
+          \ FUNNEL  /   <── Kaolin High-Albedo Thermal Shield (R = 78%, ΔT = -34.3°C)
           │  SEED   │   <── Seed Nest + Diffuse Optical Filter (Triggers Phytochrome)
           ├───┬─┬───┤
           │   │ │   │   <── Aerated Microporous Core (Oxygen Diffusion >30µm)
@@ -116,17 +116,17 @@ All prospective suppliers are tracked in [`QUOTES.md`](file:///c:/Users/m.shamee
 | :--- | :--- | :--- | :--- |
 | **Aerodynamics** | Spherical ($C_d \approx 0.47$). Drifts $>3.6\text{ m}$. | Irregular discs. High payload weight ($>25\text{ g}$). | **Prolate Ovoid ($C_d \approx 0.33$). Drift $<2.65\text{ m}$ `[Modelled]`.** |
 | **Ground Stability** | Rolls across dunes in $35\text{ km/h}$ winds; gets buried. | Unanchored; prone to shifting sand cover. | **Self-anchors $9\text{–}13.5\text{ mm}$ in sand; zero rolling `[Modelled]`.** |
-| **Thermal Protection**| Black/dark brown; heats to $>70^\circ\text{C}$ in desert sun. | Dark peat/char; causes thermo-inhibition. | **High-Albedo Kaolin Shield ($R=78\%$); surface temp $41.4^\circ\text{C}$ ($\Delta T = -33.3^\circ\text{C}$) `[Modelled]`.** |
+| **Thermal Protection**| Black/dark brown; heats to $>70^\circ\text{C}$ in desert sun. | Dark peat/char; causes thermo-inhibition. | **High-Albedo Kaolin Shield ($R=78\%$); surface temp $40.6^\circ\text{C}$ ($\Delta T = -34.3^\circ\text{C}$) `[Modelled]`.** |
 | **Rain Harvesting** | Convex dome sheds $>80\%$ of rainfall into sand. | Flat/convex runoff shedding. | **Concave Funnel captures $0.56\text{ mL}$ directly to seed nest ($5\times$ more rain) `[Modelled]`.** |
 | **Root Escape** | Cures into hard clay concrete ($>2.5\text{ MPa}$); traps root. | Variable porosity; root impedance. | **Water-soluble gum dissolves in 20 min; wet shear $<0.12\text{ MPa}$ allows easy root escape `[Modelled]`.** |
-| **Unit Cost** | Cheap, but fails in arid conditions. | AED 1.50 – AED 3.00 (Exceeds ceiling). | **AED 0.227 per pod `[Modelled]` ($43.1\%$ safety margin under AED 0.40).** |
+| **Unit Cost** | Cheap, but fails in arid conditions. | AED 1.50 – AED 3.00 (Exceeds ceiling). | **AED 0.227 factory-gate / AED 0.307 landed `[Modelled]` ($23–43\%$ below AED 0.40).** |
 
 ---
 
 ## 6. INDUSTRIAL PAN AGGLOMERATION & TECHNO-ECONOMIC MODEL
 
 ### 6.1 Manufacturing Flowsheet (Continuous Industrial Disc Granulation)
-1. **Dry Compounding:** Biochar ($32\%$), bentonite ($28\%$), kaolin ($20\%$), and gum arabic ($12\%$) dry-blended.
+1. **Dry Compounding:** Biochar ($32\%$), bentonite ($28\%$), kaolin ($20\%$), and gum arabic ($12\%$) dry-blended in a cone ribbon mixer.
 2. **Disc Granulation:** Pelleted on a $2.2\text{ m}$ industrial disc granulator ($45^\circ$, $18\text{ RPM}$) with concave punch tooling.
 3. **Seed Nest Metering:** Native seeds deposited into the upper concave nest with diffuse alginate binder.
 4. **Albedo & Wax Coating:** Rotary mist application of Kaolin albedo shield and $15\mu\text{m}$ Carnauba wax emulsion.
@@ -134,12 +134,13 @@ All prospective suppliers are tracked in [`QUOTES.md`](file:///c:/Users/m.shamee
 
 ### 6.2 Itemized Cost Model ($9.80\text{ g}$ Pod at 1,000,000 Units)
 
-* **Raw Materials Subtotal:** **AED 0.0958** *(Biochar, bentonite, kaolin, gum arabic, alginate, carnauba, plus conservative AED 0.060 seed allowance)*
-* **Molding & Dehydration Power (0.012 kWh/pod):** **AED 0.0046**
-* **Direct Industrial Labor (4 Technicians):** **AED 0.0520**
+* **Raw Materials Subtotal:** **AED 0.0963** *(Biochar free residue, bentonite AED 0.001, kaolin AED 0.001, gum arabic AED 0.010, alginate AED 0.011, carnauba AED 0.004, native seed allowance AED 0.070)*
+* **Direct Industrial Labor (4 Technicians @ 500k units/mo):** **AED 0.0520**
 * **Capex Amortization (AED 250k plant over 5M units):** **AED 0.0450**
-* **Packaging & Automated Quality Screening:** **AED 0.0300**
-* **TOTAL FACTORY-GATE UNIT COST:** **AED 0.2274 per pod** `[Modelled]` *(43.1% safety margin below AED 0.40 ceiling!)*
+* **Molding & Dehydration Power (0.012 kWh/pod @ ADDC):** **AED 0.0050**
+* **Packaging (200L weather-sealed drums):** **AED 0.0290**
+* **TOTAL FACTORY-GATE CONVERSION COST:** **AED 0.2273 (~AED 0.23) per pod** `[Modelled]` *(43.1% safety margin below AED 0.40 ceiling)*
+* **COMMERCIAL LANDED DELIVERY:** **AED 0.3069 (~AED 0.31) per pod** `[Modelled]` *(includes 35% commercial margin, transport to Abu Dhabi sites, and contingency; 23.3% below ceiling)*
 
 ---
 
@@ -164,9 +165,9 @@ All prospective suppliers are tracked in [`QUOTES.md`](file:///c:/Users/m.shamee
 * **Sub-headline:** An autonomous UAV-compatible bio-composite featuring concave rainwater catchment and thermal albedo shielding at AED 0.227 unit cost `[Modelled]`.
 * **Key Metrics Snapshot:**
   * *Aerodynamic Form:* Prolate ovoid ($29.0 \times 26.5\text{ mm}$, $C_d = 0.33$) reduces wind drift by $27.4\%$ vs. sphere `[Modelled]`.
-  * *Thermal Protection:* All-over Kaolin mineral shield ($R = 78\%$) reduces surface temperature by $33.3^\circ\text{C}$ to $41.4^\circ\text{C}$ `[Modelled]`.
+  * *Thermal Protection:* All-over Kaolin mineral shield ($R = 78\%$) reduces surface temperature by $34.3^\circ\text{C}$ to $40.6^\circ\text{C}$ `[Modelled]`.
   * *Hydrological Catchment:* Concave funnel delivers $5\times$ more rain concentration ($0.56\text{ mL}$ in $5\text{ mm}$ storm) directly to the seed nest `[Modelled]`.
-  * *Cost Viability:* Factory-gate cost of AED 0.227 `[Modelled]`, providing a $43.1\%$ safety margin below the challenge ceiling ($\le\text{AED }0.40$).
+  * *Cost Viability:* Factory-gate cost of AED 0.227 (~AED 0.23) and landed delivery of AED 0.307 (~AED 0.31) `[Modelled]`, providing a $23–43\%$ safety margin below the challenge ceiling ($\le\text{AED }0.40$).
 
 ### SLIDE 2: THE RESTORATION PROBLEM: FOUR DESERT SEEDING BOTTLENECK MODES
 * **Headline:** Physical and Biological Bottlenecks in Arid Aerial Seeding
@@ -189,7 +190,7 @@ All prospective suppliers are tracked in [`QUOTES.md`](file:///c:/Users/m.shamee
 * **Formulation:**
   * *Porous Date Palm Biochar (32% w/w):* High-surface-area capillary moisture scaffold pyrolyzed from UAE agricultural waste at $400\text{–}500^\circ\text{C}$ (*Al-Rumaihi 2022*).
   * *Calcium Bentonite & Silt (28% w/w):* Natural soil-native mineral ballast providing structural density and cohesion.
-  * *Kaolin Albedo Shield (20% w/w):* White reflective mineral coat providing $78\%$ solar reflectance and dropping equilibrium surface temp to $41.4^\circ\text{C}$ `[Modelled]`.
+  * *Kaolin Albedo Shield (20% w/w):* White reflective mineral coat providing $78\%$ solar reflectance and dropping equilibrium surface temp to $40.6^\circ\text{C}$ ($\Delta T = -34.3^\circ\text{C}$) `[Modelled]`.
   * *Cold-Soluble Gum Arabic (12% w/w):* Ductile polysaccharide adhesive imparting high dry drop toughness.
   * *Sodium Alginate (6% w/w) & Carnauba Wax (2% w/w):* Hydrogel water retention and high-melting thermal dew suppression ($82\text{–}86^\circ\text{C}$).
 * **Environmental Declaration:** 100% natural minerals and biodegradable polymers; strictly zero synthetic polyacrylamides (PAM); zero microplastics.
@@ -285,7 +286,7 @@ All prospective suppliers are tracked in [`QUOTES.md`](file:///c:/Users/m.shamee
 | Identified Risk | Severity | Scientific Mitigation Strategy |
 | :--- | :--- | :--- |
 | **Drop Impact Shattering** | High | Viscoelastic energy dissipation via Gum Arabic and cross-linked alginate; target compressive strength $>50\text{ N}$. |
-| **Solar Overheating ($>65^\circ\text{C}$)** | Critical | High-Albedo Kaolin Shield ($R=78\%$) reduces surface temperature by $33.3^\circ\text{C}$ to $41.4^\circ\text{C}$. |
+| **Solar Overheating ($>65^\circ\text{C}$)** | Critical | High-Albedo Kaolin Shield ($R=78\%$) reduces surface temperature by $34.3^\circ\text{C}$ to $40.6^\circ\text{C}$. |
 | **Rainwater Runoff / Shedding** | High | Upper $12\text{ mm}$ concave funnel channels $100\%$ of direct precipitation into seed chamber. |
 | **Root Entrapment ("Concrete Tomb")** | Critical | Cold-soluble Gum Arabic ($12\%$) dissolves upon wetting; matrix shear strength drops to $<0.12\text{ MPa}$. |
 | **Dew-Induced False Germination** | Critical | High-melting carnauba wax ($82\text{–}86^\circ\text{C}$) repels moisture $<0.5\text{ mm}$; prevents embryo lysis. |

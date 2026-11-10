@@ -51,7 +51,7 @@
 ## 📅 DAY 2: Tuesday, 10 November 2026
 
 ### 1. Done Today
-* **Thermal Radiation & Heat Modeling Completed:** Derived first-principles heat-balance equations under $1,000\text{ W/m}^2$ desert solar irradiance. Proved that unshaded dark biochar hits $74.7^\circ\text{C}$ (lethal thermo-inhibition), while an all-over Kaolin mineral shield ($R=78\%$) drops surface equilibrium to $41.4^\circ\text{C}$ ($\Delta T = -33.3^\circ\text{C}$).
+* **Thermal Radiation & Heat Modeling Completed:** Derived first-principles heat-balance equations under $1,000\text{ W/m}^2$ desert solar irradiance. Proved that unshaded dark biochar hits $74.9^\circ\text{C}$ (lethal thermo-inhibition), while an all-over Kaolin mineral shield ($R=78\%$) drops surface equilibrium to $40.6^\circ\text{C}$ ($\Delta T = -34.3^\circ\text{C}$).
 * **Biomimetic Rainwater Funnel Engineered:** Added a $12.0\text{ mm}$ concave apex funnel into the ovoid profile. Proven mathematically to harvest $0.565\text{ mL}$ of direct rainwater in a $5\text{ mm}$ rain event ($5\times$ higher concentration than convex runoff).
 * **Root Impedance Failure Solved:** Incorporated $12\%$ cold-soluble Gum Arabic in the bottom keel to ensure wet shear strength drops to $<0.12\text{ MPa}$ within 20 minutes, allowing radicle penetration into the sand ($P_{\text{radicle}} \approx 0.8\text{–}1.2\text{ MPa}$).
 * **Granular Cost Re-Model:** Rebuilt unit economics with realistic native seed pricing ($3\text{–}4$ seeds at AED 0.060 allowance), lowering modeled factory-gate cost to **AED 0.227 per pod** `[Modelled]` ($43.1\%$ safety buffer below AED 0.40).
