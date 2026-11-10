@@ -617,23 +617,44 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     set_canvas(s7)
     add_header(s7, "Industrial Scalability: 100% UAE Supply Chain & Disc Granulation", "CONTINUOUS 50,000 UNITS / DAY LINE & DOMESTIC MINERAL SOURCING")
 
-    # Top Card: Embedded 4-Stage Manufacturing Flow Diagram (Height: 2.3")
-    create_card(s7, Inches(0.8), Inches(1.55), Inches(11.733), Inches(2.45), accent_bar=COLOR_NAVY)
-    tb_mfg_t = s7.shapes.add_textbox(Inches(1.05), Inches(1.68), Inches(11.2), Inches(0.3))
-    tf_mfg_t = tb_mfg_t.text_frame
-    p_mfg_t = tf_mfg_t.paragraphs[0]
-    p_mfg_t.text = "CONTINUOUS INDUSTRIAL PRODUCTION PIPELINE (2.2m DISC PAN AGGLOMERATION)"
-    p_mfg_t.font.size = Pt(9.5)
-    p_mfg_t.font.bold = True
-    p_mfg_t.font.color.rgb = COLOR_NAVY
+    # Top Section: 4-Stage Horizontal Native Vector Process Flow (Height: 2.3")
+    stages_mfg = [
+        ("STAGE 1 / FEEDSTOCK", "Raw Feedstock Blending", "Date palm biochar (32%) + bentonite clay (28%) dry-blended with native seed guild in cone ribbon blender.", COLOR_NAVY),
+        ("STAGE 2 / GRANULATION", "Disc Pan Agglomeration", "Continuous 2.2m pan granulator (45° tilt, 18 RPM). Automated mist spray forms 50,000 pods/day.", COLOR_GOLD),
+        ("STAGE 3 / TOOLING", "Keel Ballast & Crater", "High-density Gum Arabic keel compressed at base (CG to 35%). Negative punch tools the 12mm rain funnel.", COLOR_NAVY),
+        ("STAGE 4 / COATING", "Fluid-Bed Albedo Coat", "20% Kaolin albedo spray coat + 2% carnauba dew seal. Low-temp dehydration at 38°C preserves embryo.", COLOR_EMERALD)
+    ]
+    sw = Inches(2.78)
+    for si, (stag, stit, sdesc, scol) in enumerate(stages_mfg):
+        sx = Inches(0.8) + si * Inches(2.98)
+        create_card(s7, sx, Inches(1.55), sw, Inches(2.35), accent_bar=scol)
+        
+        tb_st = s7.shapes.add_textbox(sx + Inches(0.15), Inches(1.75), sw - Inches(0.3), Inches(2.05))
+        tf_st = tb_st.text_frame
+        tf_st.word_wrap = True
+        
+        p1 = tf_st.paragraphs[0]
+        p1.text = stag
+        p1.font.size = Pt(9.0)
+        p1.font.bold = True
+        p1.font.color.rgb = scol
 
-    mfg_path = 'assets/manufacturing_flow.png'
-    if os.path.exists(mfg_path):
-        s7.shapes.add_picture(mfg_path, Inches(1.0), Inches(2.02), Inches(11.3), Inches(1.9))
+        p2 = tf_st.add_paragraph()
+        p2.text = stit
+        p2.font.size = Pt(11.5)
+        p2.font.bold = True
+        p2.font.color.rgb = COLOR_NAVY
+        p2.space_before = Pt(2)
+
+        p3 = tf_st.add_paragraph()
+        p3.text = sdesc
+        p3.font.size = Pt(8.2)
+        p3.font.color.rgb = COLOR_NAVY_LIGHT
+        p3.space_before = Pt(3)
 
     # Bottom Left Card: UAE Material Sourcing Matrix (Width: 6.8")
-    create_card(s7, Inches(0.8), Inches(4.15), Inches(6.8), Inches(2.6), accent_bar=COLOR_EMERALD)
-    tb_src = s7.shapes.add_textbox(Inches(1.05), Inches(4.3), Inches(6.3), Inches(2.35))
+    create_card(s7, Inches(0.8), Inches(4.10), Inches(6.8), Inches(2.7), accent_bar=COLOR_EMERALD)
+    tb_src = s7.shapes.add_textbox(Inches(1.05), Inches(4.25), Inches(6.3), Inches(2.45))
     tf_src = tb_src.text_frame
     tf_src.word_wrap = True
     
@@ -644,11 +665,11 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     p_src_t.font.color.rgb = COLOR_EMERALD
 
     suppliers = [
-        ("Date Palm Biochar (32%)", "Al Foah / Liwa Date Farms (Free agricultural residue)"),
+        ("Date Palm Biochar (32%)", "Al Foah / Liwa Date Farms (Free domestic agricultural residue)"),
         ("Calcium Bentonite (28%)", "RAK Minerals / Emirates Clay (Domestic UAE quarry)"),
         ("Kaolin Shield (20%)", "National Clay Industries / UAE Regional Industrial Supply"),
         ("Gum Arabic & Alginate (18%)", "Dubai Agricultural Chemicals / MENA regional trade"),
-        ("Native Seeds (Guild)", "EAD Seed Bank / Al Ain Desert Park / Local Harvest")
+        ("Native Seeds (Guild)", "EAD Seed Bank / Al Ain Desert Park / Local Wild Harvest")
     ]
     for s_mat, s_sup in suppliers:
         bp = tf_src.add_paragraph()
@@ -658,8 +679,8 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         bp.space_before = Pt(2.5)
 
     # Bottom Right Card: Industrial Scalability Parameters (Width: 4.7")
-    create_card(s7, Inches(7.8), Inches(4.15), Inches(4.733), Inches(2.6), accent_bar=COLOR_GOLD)
-    tb_sc = s7.shapes.add_textbox(Inches(8.05), Inches(4.3), Inches(4.25), Inches(2.35))
+    create_card(s7, Inches(7.8), Inches(4.10), Inches(4.733), Inches(2.7), accent_bar=COLOR_GOLD)
+    tb_sc = s7.shapes.add_textbox(Inches(8.05), Inches(4.25), Inches(4.25), Inches(2.45))
     tf_sc = tb_sc.text_frame
     tf_sc.word_wrap = True
 
@@ -670,10 +691,10 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     p_sc_t.font.color.rgb = COLOR_GOLD
 
     scale_pts = [
-        "Throughput: 50,000 pods / day / line (1.2 tonnes/day).",
-        "Tooling: Continuous rotary pan granulator avoids multi-part molds or manual assembly.",
-        "Embryo Safety: Fluidized bed drying at 38°C preserves seed embryo viability and mycorrhizal spores.",
-        "Scalability: Additional pan granulator lines scale linearly with zero retooling."
+        "Line Throughput: 50,000 pods / day / line (1.2 tonnes/day).",
+        "Continuous Forming: Rotary pan granulator avoids multi-part molds or manual assembly.",
+        "Embryo Preservation: Fluidized bed drying strictly at 38°C preserves seed embryo viability and mycorrhizal spores.",
+        "Modular Scalability: Additional pan granulator lines scale output linearly with zero factory retooling."
     ]
     for sc in scale_pts:
         bp = tf_sc.add_paragraph()
