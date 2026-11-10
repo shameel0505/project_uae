@@ -1,169 +1,160 @@
 # NABAT TERRAPOD CHALLENGE: PHASE 1 EXECUTIVE PROPOSAL SLIDES (16:9 WIDESCREEN)
 
-**Title:** Nabat-BioDrop™: Biomimetic Rainwater-Harvesting Seed Carrier for Scaled Drone Desert Revegetation  
+**Title:** Nabat-BioDrop: Biomimetic Rainwater-Harvesting Seed Carrier for Scaled Drone Desert Revegetation  
 **Challenge:** Nabat TerraPod Challenge (ASPIRE / ATRC Abu Dhabi & Nabat AI Technologies)  
 **Lead:** Mohamed Shameel (`shameel0505@gmail.com`)  
-**Format:** 10 Slides | 16:9 Widescreen | Clean Deep-Tech Executive Presentation  
+**Format:** 10 Slides | 16:9 Widescreen | Deep-Tech Executive Presentation  
 
 ---
 
-## 🖥️ SLIDE 1: EXECUTIVE SUMMARY & SYSTEM OVERVIEW
-* **Header:** Nabat-BioDrop™: Biomimetic Rainwater-Harvesting Seed Carrier  
+## SLIDE 1: EXECUTIVE SUMMARY & SYSTEM OVERVIEW
+* **Header:** Nabat-BioDrop: Biomimetic Rainwater-Harvesting Seed Carrier  
 * **Track Tag:** ASPIRE / ATRC Abu Dhabi & Nabat AI Technologies  
-* **Left Overview:**
-  * High-Performance Carrier for Autonomous UAV Seeding in UAE deserts.
-  * Solves the primary failure modes of hyper-arid aerial restoration: wind drift, extreme surface scorching (>65°C), rain shedding, and seed entrapment.
-  * Combines self-anchoring ovoid aerodynamics, concave rainwater funnel, Kaolin solar reflection, and water-soluble root release.
-* **Right Hero Stat Grid:**
-  * **−33°C** — Solar Protection: White kaolin shield reflects desert sun, keeping seed nest at 41°C.
-  * **5x** — Rainwater Harvesting: Concave funnel directs 100% of intercepted rain straight to embryo.
-  * **2,550** — Pods / Drone Flight: Ultralight 9.8g profile doubles 25kg drone flight coverage vs. heavy pucks.
-  * **AED 0.23** — Unit Cost: 43% below ASPIRE's AED 0.40 ceiling, providing a strong safety budget margin.
+* **Left Overview (Executive Briefing):**
+  * Autonomous UAV Desert Seed Carrier purpose-engineered for hyper-arid UAE sand dunes.
+  * Solves the primary failure modes of aerial desert revegetation: wind drift, extreme surface heat (>65°C), convex rain shedding, and root entrapment.
+  * Core Pillars: Aerodynamic ovoid keel, concave rain funnel, Kaolin solar shield, water-soluble root escape, and 100% natural bio-composite matrix.
+* **Right Hero Stat Grid (4 Fixed Cards):**
+  * **−33°C** — SOLAR PROTECTION: White kaolin shield reflects desert sun, keeping the seed nest at 41°C.
+  * **5x** — RAINWATER HARVESTING: Concave funnel directs 100% of intercepted rain straight to the embryo.
+  * **2,550** — PODS / DRONE FLIGHT: Ultralight 9.8g profile doubles 25kg drone flight coverage vs. heavy pucks.
+  * **AED 0.23** — UNIT FACTORY COST: 43% below ASPIRE's AED 0.40 ceiling, providing a robust safety margin.
 * **Footer:** Lead Innovator: Mohamed Shameel (shameel0505@gmail.com) | ChallengeON Track: NTPC 2026
 
 ---
 
-## 🖥️ SLIDE 2: THE ARID RESTORATION CHALLENGE (3 CORE FAILURE MODES)
+## SLIDE 2: THE ARID RESTORATION CHALLENGE (3 CORE FAILURE MODES)
 * **Header:** The Arid Challenge: Why Conventional Aerial Seeding Fails  
-* **Subtitle:** Field Failure Mechanisms in Hyper-Arid Deserts  
-* **3 Problem Cards:**
-  1. **☀️ Midday Heat Scorching:** Surface heat exceeds 65°C. Unshaded seeds suffer irreversible protein denaturation above 42°C, dying before germination.
-  2. **💧 Convex Water Shedding:** Conventional spherical and dome pellets shed >80% of scarce rain into surrounding sand, where it evaporates in 90 minutes.
-  3. **🪨 The 'Concrete Tomb':** Standard clay pellets bake into rock-hard clods (>2.5 MPa). Baby radicles exert only 0.8–1.2 MPa turgor—leaving seedlings trapped inside to die.
-* **Bottom Takeaway Banner:**
-  * "Conventional seed balls fail because they treat the desert like farmland. A winning carrier must actively reflect midday solar radiation, concentrate rare raindrops, and guarantee an easy root exit into damp sand."
+* **Subtitle:** Field Failure Mechanisms in Hyper-Arid Sand Dunes  
+* **3 Dedicated Full-Height Columns:**
+  * **01 / THERMAL HAZARD (Midday Solar Scorching):** Surface sand exceeds 65°C under desert sun. Unshaded seeds and dark biochar absorb intense solar infrared radiation. Above 42°C, embryos suffer irreversible protein denaturation. Conventional seedballs bake and die before germination can begin. *Result: Lethal embryo heat shock.*
+  * **02 / HYDROLOGICAL HAZARD (Convex Rain Shedding):** Scarce rain runs off outward into dry sand. Spherical and dome pellets shed >80% of rainfall away. Desert moisture evaporates in under 90 minutes (VPD > 4.5 kPa), leaving the seed core unhydrated despite brief rain showers. *Result: Desiccation before imbibition.*
+  * **03 / MECHANICAL HAZARD (The 'Concrete Tomb' Effect):** Sun-baked clay traps emerging radicles. Standard clay binders dry into hard clods exceeding 2.5 MPa strength. Emerging plant radicles exert only 0.8–1.2 MPa pushing force. Seedlings germinate inside but cannot penetrate out, dying trapped. *Result: Physical root entrapment.*
 
 ---
 
-## 🖥️ SLIDE 3: AERODYNAMIC FORM FACTOR: DESIGNED FOR THE DRONE
+## SLIDE 3: AERODYNAMIC GEOMETRY: DESIGNED FOR THE DRONE
 * **Header:** Aerodynamic Geometry: Eliminating Wind Drift & Sand Rolling  
 * **Subtitle:** Optimized for High-Speed Continuous UAV Broadcast (5 m/s Cruise)  
-* **Side-by-Side Comparison:**
-  * **Conventional Sphere (✕):** High drag drifts >3.6m in crosswinds; rolls continuously across dunes in 35 km/h Shamal winds; gets buried under 20–50 cm of sand in dune hollows.
-  * **Nabat-BioDrop™ Ovoid (✓):** Streamlined profile cuts drag by 27%; forward center of gravity (35%) ensures passive self-righting in flight; impacts sand at 15.8 m/s and penetrates 10 mm, anchoring upright and preventing wind roll.
-* **Bottom Stat Row:**
-  * **29.0 × 26.5 mm** — Challenge Envelope: Strictly compliant with ASPIRE 25–30 mm limit.
-  * **−27% Drift** — Tighter Dispersion: Concentrates seed drop along target drone flight lines.
-  * **10 mm Anchor** — Wind Roll Immunity: Locks upright into dune sand; resists Shamal winds.
+* **Left Column (Conventional Design):**
+  * Spherical Pellet Limitations: High drag profile causes severe lateral drift in crosswinds (>3.6m drift). Round profile rolls continuously across dunes in 35 km/h Shamal winds. Rolling pellets settle into dune hollows and get buried under 20–50 cm of sand, cutting off light and oxygen.
+  * *Limitation Box:* High drift disperses seeds outside target areas; rolling leads to deep sand burial.
+* **Right Column (Engineered Solution):**
+  * Prolate Ovoid Geometry: Streamlined shape reduces crosswind drift by 27% during 5 m/s continuous drone cruise. Forward center of gravity (35% from base) ensures heavy keel leads in flight. Enters sand at 15.8 m/s, anchoring 10 mm deep on impact to lock upright and eliminate wind roll.
+  * *Bottom Metrics:* 29.0 × 26.5 mm (Envelope) | −27% Drift (Stability) | 10 mm Anchor (Anti-Roll).
 
 ---
 
-## 🖥️ SLIDE 4: THERMAL ALBEDO SHIELD: SURVIVING MIDDAY HEAT
+## SLIDE 4: THERMAL ALBEDO SHIELD: SURVIVING MIDDAY HEAT
 * **Header:** Solar Defense: Reflecting Desert Heat to Save Embryos  
 * **Subtitle:** High-Albedo Kaolin Mineral Coating Reduces Surface Temperature by 33°C  
-* **Left Overview:**
-  * Midday desert sun (1,000 W/m²) heats dark sand and biochar to 75°C.
-  * Embryos suffer permanent heat injury above 42°C.
-  * Nabat-BioDrop™ applies an outer coat of reflective Kaolin clay (78% reflectance), dropping surface equilibrium temperature to 41.4°C—safely below lethal limits.
-* **Hero Contrast Cards:**
-  * **74.7°C** — Uncoated Biochar (Lethal to delicate seed embryos).
-  * **41.4°C** — Kaolin Solar Shield (Embryo stays safe and viable).
-* **Right Formulation Card:**
-  * 100% Natural UAE Materials: Date palm waste biochar (32%), Calcium bentonite clay (28%), Kaolin shield (20%), Gum Arabic (12%), Carnauba wax (2%). Zero microplastics.
+* **Left Column (Physical Mechanism):**
+  * Thermal Equilibrium & Solar Defense: Midday solar radiation (1,000 W/m²) heats unshaded sand and dark biochar to 75°C. Sustained exposure above 42°C causes irreversible embryo protein denaturation.
+  * Kaolin Mineral Shield: Formulated with a thin outer coat of high-purity natural Kaolin clay offering 78% solar reflectance.
+  * Equilibrium Cooling: Reduces surface equilibrium temperature from 74.7°C to 41.4°C (a 33.3°C thermal reduction), keeping the seed nest safely below the 42°C lethal threshold.
+* **Right Top Contrast Cards:**
+  * **74.7°C** — UNCOATED BIOCHAR: Absorbs 92% of solar heat; causes irreversible embryo denaturation.
+  * **41.4°C** — KAOLIN SOLAR SHIELD: Reflects 78% of heat; maintains internal embryo viability.
+* **Right Bottom Card (Circular Bio-Composite):**
+  * 100% Natural UAE Formulation: Date palm waste biochar (32%), Calcium bentonite clay (28%), Kaolin mineral shield (20%), Cold-soluble Gum Arabic (12%). Zero synthetic polymers or microplastics.
 
 ---
 
-## 🖥️ SLIDE 5: HYDROLOGICAL CATCHMENT & DEW SUPPRESSION
+## SLIDE 5: HYDROLOGICAL CATCHMENT & DEW SUPPRESSION
 * **Header:** Hydrological Architecture: Harvesting Rain & Repelling Dew  
 * **Subtitle:** Concave Funnel Water Concentration & Timed Rain Activation  
-* **Left Card (12mm Concave Funnel):**
-  * 12 mm inward crater captures 100% of direct rainfall straight into the seed chamber.
-  * Gathers 0.56 mL of water in a typical 5 mm rain shower (5x more water than convex domes).
-  * Windblown sand gently mulches the funnel, trapping humidity and preventing evaporation.
-* **Right Card (Smart Dew Shield):**
-  * Morning dew (0.2 mm) evaporates in 90 minutes of sun, killing premature sprouts.
-  * High-melting Carnauba wax (85°C) remains solid in summer heat and repels light dew.
-  * Substantial rainfall (≥5 mm) dissolves the matrix and triggers full germination.
-* **Bottom Stat Row:**
-  * **0.56 mL** — Rain Harvested / Pod in a 5 mm shower.
-  * **82–86°C** — Wax Melting Point: Pure Carnauba resists extreme desert heat.
-  * **≥ 5 mm** — Rain Activation: Sprouts only when real soil moisture is sufficient.
+* **Left Column (Water Concentration):**
+  * 12mm Concave Catchment Funnel: An inward 12 mm crater channels rainwater directly into the central seed chamber.
+  * 5x Concentration: In a typical 5 mm rain shower, gathers 0.56 mL of liquid water straight into the core.
+  * Zero Runoff Waste: Convex pellets shed water outward into dry sand; BioDrop captures and concentrates every drop.
+  * Natural Sand Mulch: Windblown sand gently settles in the funnel, forming a protective moisture blanket.
+  * *Capacity Box:* Harvest capacity of 0.56 mL per pod in a 5 mm shower (5x vs convex pellets).
+* **Right Column (Phase Activation):**
+  * High-Melting Carnauba Dew Shield: Light morning condensation (0.2 mm) evaporates in 90 minutes of sun, killing premature sprouts.
+  * Heat-Resistant Wax (85°C): Unlike beeswax (which melts at 62°C), carnauba remains rock-solid in extreme desert sand heat.
+  * Threshold Protection: Repels superficial dew (<0.5 mm); genuine rainfall (≥5 mm) penetrates and triggers active growth.
+  * *Activation Box:* Repels dew (<0.5 mm); activates only when rain exceeds 5 mm.
 
 ---
 
-## 🖥️ SLIDE 6: ROOT MECHANICAL FREEDOM & NURSE GUILD ECOLOGY
+## SLIDE 6: ROOT MECHANICAL FREEDOM & NURSE GUILD ECOLOGY
 * **Header:** Biological Emergence: Fast-Dissolving Keel & Nurse Ecology  
 * **Subtitle:** Preventing Root Entrapment & Accelerating Native Establishment  
-* **Left Card (Water-Soluble Keel):**
-  * Fragile baby roots exert only 0.8–1.2 MPa pushing force; standard clay clods exceed 2.5 MPa.
-  * 12% cold-soluble Gum Arabic binder dissolves within 20 minutes in water.
-  * Shell resistance drops to <0.12 MPa, allowing baby roots to push effortlessly into moist sand.
-* **Right Card (Native Nurse Guild Ecology):**
-  * Pioneer Nurse Grass (*Stipagrostis plumosa*): Sprouts in 48 hours to bind shifting sand.
-  * Climax Shrub (*Haloxylon salicornicum*): Shelters under grass canopy and grows deep taproots.
-  * Diffuse light veil transmits 10–20% light to satisfy phytochrome needs without burning.
-* **Bottom Stat Row:**
-  * **20 Mins** — Keel Dissolution Speed: Rapid softening upon contact with rainwater.
-  * **< 0.12 MPa** — Wet Shear Resistance: Far below root strength; zero barrier to exit.
-  * **2-Stage Guild** — Ecological Succession: Pioneer grass stabilizes sand for climax shrubs.
+* **Left Column (Mechanical Freedom):**
+  * Water-Soluble Root Escape Keel: Eliminating the 'Concrete Tomb' failure mode.
+  * Turgor Limit: An emerging plant radicle exerts a maximum pushing force of only 0.8–1.2 MPa.
+  * Fast-Dissolve Gum Arabic: Keel formulated with 12% cold-soluble plant gum that dissolves within 20 minutes in water.
+  * Effortless Exit: Matrix shear drops to <0.12 MPa (10x below root limit), letting roots push downward into moist sand with zero resistance.
+  * *Integrated Metric Box:* 20 Mins | < 0.12 MPa wet shear resistance (10x below baby root turgor limit).
+* **Right Column (Ecological Synergy):**
+  * Native Nurse Guild Ecology: Two-stage plant succession engineered for UAE arid dynamics.
+  * Pioneer Nurse Grass (*Stipagrostis plumosa*): Germinates in 48 hours to create surface root nets that lock shifting sand.
+  * Climax Shrub (*Haloxylon salicornicum*): Slower starter; takes shelter in grass shade and grows deep perennial roots.
+  * Diffuse Light Veil: Semi-translucent mineral cover filters 10–20% of sunlight—activating growth without scorching.
+  * *Integrated Metric Box:* 2-Stage Guild | Synergistic succession (pioneer grass stabilizes sand for climax shrub).
 
 ---
 
-## 🖥️ SLIDE 7: EMPIRICAL VALIDATION PROTOCOL
+## SLIDE 7: EMPIRICAL VALIDATION PROTOCOL
 * **Header:** Solution Readiness: Empirical Validation Protocol  
 * **Subtitle:** Progression from First-Principles Modeling to Abu Dhabi Field Trials  
-* **3 Chronological Stage Cards:**
-  1. **Stage 1: Bench Characterization** — Caliper dimensional audit (29.0 × 26.5 mm), digital crush gauge (>50 N target), 15m sand drop tests (≥95% intact survival).
-  2. **Stage 2: Laboratory Proxy Assays** — Fast arid proxy (*Lepidium sativum*) for 24-hour emergence benchmarking; comparative dish assays; dissolution timing tests.
-  3. **Stage 3: Phase 3 UAV Field Trials** — Pilot compounding of 2,000 deployment units; live drone dispersion at 5 m/s across Abu Dhabi study plots; emergence tracking.
-* **Bottom Summary Banner:**
-  * "In full accordance with Phase 1 proposal guidelines, all baseline calculations are grounded in peer-reviewed UAE desert ecology and physics. Physical bench validation begins immediately upon Phase 2 selection."
+* **3 Dedicated Full-Height Columns:**
+  * **STAGE 1 / BENCH AUDIT (Physical & Mechanical):** Dimensional audit (n=20) ensuring compliance with 25–30 mm envelope. Compressive strength testing (n=10) targeting >50 N fracture force. 15m sand drop tests (n=30) validating ≥95% survival and 10 mm sand anchoring. *Benchmark: >50 N fracture force.*
+  * **STAGE 2 / LAB PROXY (Germination & Moisture):** Fast arid proxy (*Lepidium sativum*) providing a 24-hour emergence benchmark for rapid testing. Comparative dish assays (4x25 seeds) evaluating encapsulated pods vs. bare controls under stress. Keel dissolution timing confirmation. *Benchmark: 24-hour emergence proxy.*
+  * **STAGE 3 / FIELD TRIALS (Operational Flight Trials):** Pilot compounding of 2,000 ready-to-deploy units for Nabat drone fleet. High-speed broadcast at 5 m/s cruise across designated restoration plots. Multi-month auditing of plant establishment and dune stabilization. *Target: 2,000 flight-ready units.*
 
 ---
 
-## 🖥️ SLIDE 8: INDUSTRIAL SCALABILITY & NABAT UAV COMPATIBILITY
+## SLIDE 8: INDUSTRIAL SCALABILITY & NABAT UAV COMPATIBILITY
 * **Header:** Industrial Scalability: 50,000 Pods / Day & High Drone Coverage  
 * **Subtitle:** Continuous Disc Agglomeration & EAD Abu Dhabi Density Integration  
-* **Left Card (High-Volume Production Flow):**
-  * Continuous pan granulation on standard 2.2 m agricultural disc granulators (45° tilt, 18 RPM).
-  * Single-stage agglomeration + rotary mineral coating avoids expensive multi-part molds.
-  * High line output: 50,000 pods/day (1.2 tonnes/day).
-  * Fluidized bed drying at 38°C preserves embryo and mycorrhizal spore viability.
-* **Right Card (Drone Payload & Hectare Coverage):**
-  * 2,550 pods per flight on a standard 25 kg payload UAV (+155% vs. heavy 25 g pucks).
-  * Scenario A (Rangeland Restoration): 1,500 pods/ha $\implies$ AED 340.50 / hectare.
-  * Scenario B (Dune Stabilization): 4,500 pods/ha $\implies$ AED 1,021.50 / hectare (matches EAD 6.5M seed trial).
-  * Sortie Coverage: 1.7 ha (rangeland) or 0.6 ha (dunes) per flight.
-* **Bottom Stat Row:**
-  * **50,000** — Pods / Day / Line: Continuous industrial granulator throughput.
-  * **2,550** — Pods per 25kg UAV: +155% payload capacity vs. heavy 25g pellets.
-  * **1.7 ha** — Coverage per Flight in rangeland restoration.
+* **Left Column (Manufacturing Scalability):**
+  * High-Volume Disc Granulation: Continuous single-stage industrial agglomeration.
+  * Continuous Pan Granulation: Scaled on standard 2.2 m agricultural disc granulators (45° tilt, 18 RPM) with concave tooling.
+  * Single-Step Forming: Continuous pan agglomeration followed by rotary mineral coating avoids multi-part molds or manual assembly.
+  * Embryo-Safe Dehydration: Fluidized bed drying at 38°C preserves seed embryo viability and mycorrhizal spores.
+  * *Integrated Metric Box:* 50,000 Pods / Day / Line | Continuous throughput (1.2 tonnes/day).
+* **Right Column (Drone Integration):**
+  * Drone Payload & Field Coverage: Operational metrics grounded in EAD Abu Dhabi restoration trials.
+  * 2,550 Pods per Flight: Ultralight 9.8g mass enables 2,550 pods on a standard 25 kg UAV (+155% vs. heavy 25g pellets).
+  * Rangeland Restoration: 1,500 pods/ha achieves 300–500 mature shrubs/ha at a low carrier cost of AED 340.50 / hectare.
+  * Dune Stabilization: 4,500 pods/ha locks moving sand at AED 1,021.50 / hectare (matching EAD 6.5M seed trial).
+  * *Integrated Metric Box:* 2,550 Pods / Flight | 1.7 Hectares coverage per 25kg drone sortie.
 
 ---
 
-## 🖥️ SLIDE 9: TECHNO-ECONOMIC VIABILITY: AED 0.23 PER CARRIER
+## SLIDE 9: TECHNO-ECONOMIC VIABILITY: AED 0.23 PER CARRIER
 * **Header:** Techno-Economic Viability: AED 0.23 per Carrier  
 * **Subtitle:** 43% Safety Margin Below the ASPIRE AED 0.40 Ceiling  
-* **Left Card (Cost Structure):**
-  * Total factory-gate unit cost: **AED 0.227 per carrier** (Ceiling: AED 0.40).
-  * Raw Materials: AED 0.10 (Local biochar, clay, kaolin, gum, and native seeds).
-  * Labor & Conversion: AED 0.05 (Automated continuous production).
-  * Capex & Packaging: AED 0.08 (Plant depreciation & bulk bagging).
-  * Massive 43% safety margin (17 fils buffer) protects against market fluctuations.
-* **Right Hero & Sensitivity Cards:**
-  * **AED 0.23** (Nabat-BioDrop™ Cost) vs. **AED 0.40** (ASPIRE Ceiling Cap).
-  * Survives +50% labor spikes (AED 0.25) and +100% seed price surges (AED 0.29). Resilient up to +150% seed price increases.
-* **Bottom Stat Row:**
-  * **−43%** — Budget Margin: 17 fils buffer per carrier below ASPIRE cap.
-  * **AED 340 / ha** — Rangeland Cost at 1,500 pods/ha operational density.
-  * **+150%** — Seed Shock Resilience: Remains fully compliant under price surges.
+* **Left Column (Unit Economics):**
+  * Factory-Gate Unit Cost Breakdown modeled at 1,000,000 unit production scale.
+  * Upcycling local date palm agricultural waste and domestic bentonite clay minimizes bill-of-materials cost while maintaining industrial consistency.
+  * Raw Materials: AED 0.10 (Date palm biochar, bentonite, kaolin, gum, and native seeds).
+  * Labor & Conversion: AED 0.05 (Automated continuous disc granulation and fluidized bed drying).
+  * Capex & Packaging: AED 0.08 (Plant depreciation over 5M units and bulk biodegradable packaging).
+  * *Summary:* Total factory-gate cost is AED 0.227 per pod, providing a 43.1% safety margin (17 fils buffer) below ASPIRE's AED 0.40 ceiling.
+* **Right Top Contrast Cards:**
+  * **AED 0.23** — NABAT-BIODROP COST: Itemized factory-gate cost at 1M unit scale.
+  * **AED 0.40** — ASPIRE CEILING CAP: Challenge economic ceiling threshold.
+* **Right Bottom Card (Stress Resilience):**
+  * Financial Sensitivity & Shock Resistance: +50% labor spike increases cost to AED 0.25 (−36% below ceiling). +100% seed price shock increases cost to AED 0.29 (−28% below ceiling). Model survives up to +150% native seed price surges while remaining fully compliant.
 
 ---
 
-## 🖥️ SLIDE 10: EXECUTION ROADMAP, TEAM & UAE ALIGNMENT
+## SLIDE 10: EXECUTION ROADMAP, TEAM & UAE ALIGNMENT
 * **Header:** Project Execution: Roadmap, Team & National Alignment  
 * **Subtitle:** Delivering 2,000 Field-Ready Seed Carriers by January 2027  
-* **Top 4-Milestone Schedule:**
-  * *Nov 2026 (Phase 1):* Proposal modeling, supplier mapping, baseline design.
-  * *Dec 2026 (Phase 2):* Semi-finalist video pitch, mechanical drop assays, proxy tests.
-  * *1 Jan 2027 (Phase 3):* Delivery of 2,000 ready-to-deploy units to Nabat drone fleet.
-  * *Q1 2027:* Live UAV drop trials and vegetation emergence auditing in Abu Dhabi.
-* **Bottom Left (Lead Innovator Profile):**
-  * Mohamed Shameel (Independent Applied Engineering & Computational Modeling).
-  * Grassroots self-directed research with zero corporate overhead; agile prototyping.
-  * 100% clean IP; non-exclusive testing rights granted to ASPIRE & Nabat AI Technologies.
-* **Bottom Right (UAE Strategic Alignment):**
-  * UAE Net Zero 2050: Accelerated biological carbon sequestration via dryland revegetation.
-  * National Biodiversity Strategy 2031: Large-scale habitat rehabilitation using native flora.
-  * Circular Bioeconomy: Upcycling date palm agricultural waste into restoration tech.
+* **Top 4-Milestone Schedule Flow:**
+  * **Phase 1: Proposal (Nov 2026):** First-principles modeling, supplier mapping, baseline specs.
+  * **Phase 2: Lab Prototype (Dec 2026):** Semi-finalist pitch, drop assays, proxy germination.
+  * **Phase 3: Pilot Batch (1 Jan 2027):** Delivery of 2,000 ready-to-deploy units to Nabat drone fleet.
+  * **Desert Validation (Q1 2027):** Live UAV drop trials and vegetation emergence auditing in Abu Dhabi.
+* **Bottom Left (Leadership & IP):**
+  * Mohamed Shameel: Independent Applied Engineering & Computational Modeling. Grassroots self-directed research with zero corporate overhead.
+  * Agile Execution: Direct access to domestic UAE material suppliers across Abu Dhabi, Dubai, and Sharjah.
+  * 100% Clean IP: Proprietary independent architecture; non-exclusive testing license granted to ASPIRE and Nabat AI Technologies.
+* **Bottom Right (National Strategy):**
+  * UAE Net Zero 2050: Accelerated biological carbon sequestration through scalable dryland revegetation.
+  * National Biodiversity Strategy 2031: Large-scale habitat rehabilitation utilizing indigenous desert flora.
+  * Circular Bioeconomy: Upcycling date palm agricultural waste into high-tech ecological restoration carriers.
 * **Footer:** Author: Mohamed Shameel (shameel0505@gmail.com) | NTPC 2026 Submission
