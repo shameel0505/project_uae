@@ -28,10 +28,8 @@ Kindly provide your formal quotation on company letterhead by return email.
 
 Best regards,
 
-Mohamed Shameel
-Project Lead, TerraPod Engineering
+Project Lead, TerraPod Applied Engineering
 Abu Dhabi, United Arab Emirates
-Email: shameel0505@gmail.com
 ```
 
 ---
@@ -73,7 +71,7 @@ Could you kindly advise on:
 Thank you for supporting UAE native biodiversity restoration.
 
 Best regards,
-Mohamed Shameel
-Email: shameel0505@gmail.com
+Applied Engineering Lead
+Abu Dhabi, United Arab Emirates
 ```
 

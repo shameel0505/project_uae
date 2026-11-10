@@ -3,7 +3,7 @@
 **Project Title:** NABAT-BIODROP™: Biomimetic Rainwater-Harvesting & Self-Orienting Seed Carrier for Autonomous UAV Desert Revegetation  
 **Host Organization:** ASPIRE / ATRC Abu Dhabi & Nabat AI Technologies (VentureOne)  
 **Track:** Nabat TerraPod Challenge (NTPC 2026) via ChallengeON  
-**Lead Innovator:** Mohamed Shameel (`shameel0505@gmail.com`)  
+**Applicant:** Independent Applied Engineering Group  
 **Deliverable Format:** 10 Slides | 16:9 Widescreen | Deep-Tech Executive Presentation  
 **Production Standard:** ZERO emojis, 7 embedded 300 DPI scientific/engineering figures, verified thermodynamic & aerodynamic equations, audited AED 0.23 – AED 0.31 dual-tier costing.
 
@@ -22,7 +22,7 @@
   2. **−34.3°C ΔT** — *SOLAR ALBEDO SHIELD:* High-reflectance Kaolin coat maintains seed nest at 40.6°C (sub-lethal threshold).
   3. **2,550 Pods / Sortie** — *UAV PAYLOAD EFFICIENCY:* +155% capacity per 25 kg drone flight (1.70 ha/sortie vs 0.66 ha for pucks).
   4. **AED 0.23 – 0.31** — *UNIT COST VIABILITY:* AED 0.23 factory-gate to AED 0.31 landed delivery (23–43% below AED 0.40 cap).
-* **Footer:** Lead Innovator: Mohamed Shameel (`shameel0505@gmail.com`) | Target Batch: 2,000 Units by Jan 2027 | Track: NTPC Phase 1
+* **Footer:** Independent Applied Engineering Group | Target Batch: 2,000 Units by Jan 2027 | Track: NTPC Phase 1
 
 ---
 
@@ -176,7 +176,7 @@
   * `PHASE 3: PILOT BATCH` (1 Jan 2027) — Delivery of 2,000 ready-to-deploy units to Nabat drone fleet.
   * `DESERT VALIDATION` (Q1 2027) — Live UAV drop trials and vegetation emergence auditing in Abu Dhabi.
 * **Bottom Left (Leadership & Validation Protocols):**
-  * *Mohamed Shameel | Independent Engineering:* Agile execution, direct computational modeling, rapid prototyping with zero institutional bureaucracy.
+  * *Independent Applied Engineering Group:* Agile execution, direct computational modeling, rapid prototyping with zero institutional bureaucracy.
   * *Bench Proxy Protocols:* Caliper dimensional audit ($n=20$), 50N fracture gauge ($n=10$), 15m sand drop tower, and *Lepidium sativum* 24h rapid emergence benchmarking.
   * *100% Clean IP:* Proprietary independent architecture; testing rights granted to ASPIRE & Nabat AI Technologies.
 * **Bottom Right (National Strategic Alignment):**

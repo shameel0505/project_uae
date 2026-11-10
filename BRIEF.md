@@ -41,7 +41,7 @@ As published by ASPIRE/ChallengeON, the 8–10 slides must explicitly cover thes
 
 ## 3. STRICT TERMINOLOGY & GROUNDING RULES FOR THE DECK
 
-In accordance with Shameel's Ground Rules:
+In accordance with Ground Rules:
 * **Rule 1 (Number Tagging):** Every number appearing on any slide must be explicitly marked:
   * `[Measured: n=..., method=...]`
   * `[Modelled: eq=..., inputs=...]`
@@ -53,7 +53,7 @@ In accordance with Shameel's Ground Rules:
 
 ---
 
-## 4. ACTION FOR SHAMEEL: OFFICIAL Q&A QUESTIONS (POST BY TUE 10 NOV)
+## 4. ACTION: OFFICIAL Q&A QUESTIONS (POST BY TUE 10 NOV)
 
 Copy and post these exact questions into the ChallengeON NTPC Q&A / Support channel on `challengeon.atrc.ae`:
 

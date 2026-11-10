@@ -146,13 +146,13 @@ All prospective suppliers are tracked in [`QUOTES.md`](file:///c:/Users/m.shamee
 
 ## 7. DAY-BY-DAY COUNTDOWN EXECUTION PLAN (10 NOV – 19 NOV 2026)
 
-* **Tue 10 Nov (Today):** Shameel posts the 6 clarification questions to ChallengeON; issue written supplier RFQs.
+* **Tue 10 Nov (Today):** Post the 6 clarification questions to ChallengeON; issue written supplier RFQs.
 * **Wed 11 Nov (Day 3):** Procure silicone moulds; compound initial 30-pod bench batch ($9.8\text{ g}$ mass balance); dehydrate at $38^\circ\text{C}$.
 * **Thu 12 Nov (Day 4):** Mass/caliper characterization ($n=20$); cordoned drop tests from safe height ($n=30$); start surrogate germination assays ($4 \times 25$ seeds).
 * **Fri 13 Nov (Day 5):** Rain threshold wetting tests ($0.3\text{ mm}$, $2.0\text{ mm}$, $6.0\text{ mm}$); daily germination readout; point-mass drift simulation.
 * **Sat 14 Nov (Day 6):** Integrate written supplier quotes; compile high-resolution test photos; assemble slide charts.
 * **Sun 15 Nov (Day 7):** Draft the 8–10 slide deck in 16:9 PDF format using audited copy.
-* **Mon 16 Nov (Day 8):** Day-4 germination readout; slide-by-slide QA audit; Shameel review.
+* **Mon 16 Nov (Day 8):** Day-4 germination readout; slide-by-slide QA audit; internal team review.
 * **Tue 17 Nov (Day 9 - SUBMISSION TARGET):** Final revisions, PDF export ($<10\text{ MB}$), complete ChallengeON portal fields, and submit.
 * **Wed 18 – Thu 19 Nov (Buffer Days):** Emergency contingency buffer; final portal cutoff Thursday 19 Nov.
 
@@ -249,7 +249,7 @@ All prospective suppliers are tracked in [`QUOTES.md`](file:///c:/Users/m.shamee
   * *December 2026 (Phase 2):* Semi-finalist video pitch and comprehensive mechanical/germination test data submission.
   * *January 2027 (Phase 3 Preparation):* Batch production of 2,000 deployment units using pilot granulation equipment; ready for deployment by 1 January 2027.
   * *Jan–Feb 2027 (Live Drone Trials):* UAV dispersion and field establishment validation across designated Abu Dhabi restoration study plots in partnership with Nabat.
-* **Team & IP Disclosure:** Led by Mohamed Shameel (Independent Applied Engineering & Computational Modeling; grassroots self-directed research with zero corporate overhead); 100% proprietary design; non-exclusive evaluation rights granted to ASPIRE/Nabat; 100% clean IP with zero prior grant encumbrances.
+* **Team & IP Disclosure:** Led by an Independent Applied Engineering Group (computational modeling & rapid prototyping with zero corporate overhead); 100% proprietary design; non-exclusive evaluation rights granted to ASPIRE/Nabat; 100% clean IP with zero prior grant encumbrances.
 * **Strategic Alignment:** Direct alignment with UAE Net Zero 2050 (biological carbon sink) and UAE National Biodiversity Strategy 2031 (native arid ecosystem restoration).
 
 ---
@@ -293,4 +293,4 @@ All prospective suppliers are tracked in [`QUOTES.md`](file:///c:/Users/m.shamee
 | **Dimensional Non-Compliance** | High | Caliper verification ensures all axes fall strictly between $25.0\text{ mm}$ and $30.0\text{ mm}$ ($29.0 \times 26.5\text{ mm}$). |
 
 ---
-*Dossier compiled for Mohamed Shameel (`shameel0505@gmail.com`) | Repository: `https://github.com/shameel0505/project_uae`*
+*Dossier compiled for Nabat TerraPod Challenge (NTPC 2026) | ChallengeON Track*

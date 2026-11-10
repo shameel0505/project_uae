@@ -19,7 +19,7 @@ from pptx.enum.text import PP_ALIGN
 from pptx.dml.color import RGBColor
 from pptx.enum.shapes import MSO_SHAPE
 
-def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
+def create_deck(output_path="Nabat_BioDrop_Technical_Proposal.pptx"):
     prs = Presentation()
     prs.slide_width = Inches(13.333)
     prs.slide_height = Inches(7.5)
@@ -80,7 +80,7 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
         line.fill.fore_color.rgb = COLOR_BORDER
         line.line.fill.background()
 
-    def add_footer(slide, text="Lead Innovator: Mohamed Shameel (shameel0505@gmail.com) | ChallengeON Track: NTPC 2026"):
+    def add_footer(slide, text="Nabat-BioDrop™ Technical Proposal | ChallengeON Track: NTPC 2026 | ASPIRE & ATRC Abu Dhabi"):
         f_box = slide.shapes.add_textbox(Inches(0.8), Inches(7.05), Inches(11.733), Inches(0.3))
         tf = f_box.text_frame
         tf.word_wrap = True
@@ -207,7 +207,7 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     tb_foot1 = s1.shapes.add_textbox(Inches(0.8), Inches(6.95), Inches(11.733), Inches(0.35))
     tf_foot1 = tb_foot1.text_frame
     p_ft1 = tf_foot1.paragraphs[0]
-    p_ft1.text = "Lead Innovator: Mohamed Shameel (shameel0505@gmail.com)  |  Target Batch: 2,000 Units by Jan 2027  |  Track: NTPC Phase 1"
+    p_ft1.text = "Independent Applied Engineering Group  |  Target Batch: 2,000 Units by Jan 2027  |  Track: NTPC Phase 1"
     p_ft1.font.size = Pt(9)
     p_ft1.font.color.rgb = RGBColor(100, 116, 139) # Slate 500
 
@@ -902,7 +902,7 @@ def create_deck(output_path="Nabat_TerraPod_Proposal_Shameel.pptx"):
     p.font.color.rgb = COLOR_NAVY
 
     p_t_sub = tf_tm.add_paragraph()
-    p_t_sub.text = "Mohamed Shameel | Independent Engineering"
+    p_t_sub.text = "Independent Applied Engineering Group"
     p_t_sub.font.size = Pt(13)
     p_t_sub.font.bold = True
     p_t_sub.font.color.rgb = COLOR_NAVY

@@ -1,10 +1,10 @@
 # SCIENTIFIC FOUNDATIONS & FIRST-PRINCIPLES ENGINEERING ANALYSIS
 ## Nabat TerraPod Challenge: Desert Aerial Seeding Physics, Geochemistry & Ecophysiology
 
-**Author:** Mohamed Shameel & Antigravity Engineering System  
+**Author:** Independent Applied Engineering Research Group  
 **Date:** Tuesday, 10 November 2026 (Updated with Albedo & Catchment Recalculations)  
 **Status:** Living Engineering Document | Pure Science Baseline  
-**Workspace:** `project_uae` | Repository: `https://github.com/shameel0505/project_uae`  
+**Workspace:** `project_uae`  
 
 ---
 
@@ -151,4 +151,4 @@ Dry bentonite clay and gum composites exhibit compressive clod strengths exceedi
 | **COMMERCIAL LANDED DELIVERY**  | Fully Landed Price | To Nabat Staging Depots | **AED 0.3069 (~AED 0.31)** `[Modelled]` | **$23.3\%$ safety margin below AED 0.40 ceiling** |
 
 ---
-*Verified by Mohamed Shameel & Antigravity Engineering System | 10 November 2026*
+*Verified by Independent Applied Engineering Research Group | 10 November 2026*

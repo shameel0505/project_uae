@@ -7,7 +7,7 @@
 ## 📌 Executive Status (Updated 9 November 2026)
 
 * **Repository:** `https://github.com/shameel0505/project_uae`
-* **Lead Engineer:** Mohamed Shameel (`shameel0505@gmail.com`)
+* **Lead Engineer:** Independent Applied Engineering Group
 * **Primary Focus:** High-yield innovation competitions with **zero company requirement**, **cash/grant prizes**, and **deep AI / autonomous engineering**.
 * **Immediate Priority Track (Next 10 Days):**
   1. 🌾 **Nabat TerraPod Challenge** ($50,000 USD / AED 183.6k) — Phase 1 Proposal Closes **19 November 2026**.
